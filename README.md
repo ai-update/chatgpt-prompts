@@ -18,10 +18,6 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Schedule Planner", "Task":"Create a schedule for my daily activities.", "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
 
-**Schedule Planner**
-
-{"Role":"Schedule Planner", "Task":"Create a schedule for my daily activities.", "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
-
 **Translator**
 
 {"Role":"Translator", "Task":"Translate text from 'Language Pair' to another language.", "Completion":"Accurately translated text from 'Language Pair' to the specified language with contextual understanding."}
