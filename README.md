@@ -2,17 +2,17 @@
 
 A collection of prompts for the free version of ChatGPT.
 
-The primary purpose of this project is to offer a diverse range of prompt templates that can be used to interact with ChatGPT effectively. 
+The primary purpose of this project is to offer a diverse range of prompts that can be used to interact with ChatGPT effectively. 
 
-These templates are designed to streamline the process of generating high-quality responses from ChatGPT; making it easier for developers, researchers, and enthusiasts to harness the full potential of the A.I. model.
-
-Made by Cas van Vliet: https://casvanvliet.com
-
-# List of Prompts
+These prompts are designed to streamline the process of generating high-quality responses from ChatGPT; making it easier for developers, researchers, and enthusiasts to harness the full potential of the A.I. model.
 
 **DIY template**
 
 > {"Information":"your_info",\n "Role":"ideal_agent",\n1 "Task":"your_task",\n2 "Completion":"your_ideal_answer"}
+
+Made by Cas van Vliet: https://casvanvliet.com
+
+# List of Prompts
 
 **Schedule Planner**
 
