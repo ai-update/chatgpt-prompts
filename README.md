@@ -6,11 +6,11 @@ The primary purpose of this project is to offer a diverse range of prompts that 
 
 These prompts are designed to streamline the process of generating high-quality responses from ChatGPT; making it easier for developers, researchers, and enthusiasts to harness the full potential of the A.I. model.
 
+Made by Cas van Vliet: https://casvanvliet.com
+
 # DIY Template
 
 > {"Role":"ideal_agent", "Task":"your_task","Completion":"your_ideal_answer"}
-
-Made by Cas van Vliet: https://casvanvliet.com
 
 # List of Prompts
 
