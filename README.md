@@ -10,9 +10,7 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 # List of Prompts
 
-**basic template**
-
-{"Role":"ideal_agent",\n1 "Task":"your_task",\n2 "Completion":"your_ideal_answer"}
+**DIY template**
 
 > {"Information":"your_info",\n "Role":"ideal_agent",\n1 "Task":"your_task",\n2 "Completion":"your_ideal_answer"}
 
