@@ -10,7 +10,7 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 # DIY Template
 
-> {"Role":"ideal_agent", "Task":"your_task","Completion":"your_ideal_answer"}
+> {"Role":'ideal_agent', "Task":'your_task',"Completion":'your_ideal_answer'}
 
 # List of Prompts
 
@@ -33,10 +33,6 @@ Made by Cas van Vliet: https://casvanvliet.com
 **Research Assistant**
 
 {"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Provided comprehensive and well-researched information on 'your_research_topic' to aid in the research process."}
-
-**Text Generator**
-
-{"Role":"Content Generator", "Task":"Generate 'Text Type' content based on specific criteria.", "Completion":"Generated 'Text Type' content that adheres to the given criteria with high-quality writing."}
 
 **Email Drafter**
 
