@@ -10,7 +10,7 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 # List of Prompts
 
-**general template**
+**basic template**
 
 {"Information":"your_info",\n "Role":"ideal_agent",\n1 "Task":"your_task",\n2 "Completion":"your_ideal_answer"}
 
@@ -27,3 +27,9 @@ Made by Cas van Vliet: https://casvanvliet.com
 {["Topic]":"you_topic_here" ### "Role":"Research Assistant", "Task":"Compile a comprehensive research report on the topic '["Topic"]', including relevant data, statistics, and insights.", "Completion":"A detailed research report on '["Topic"]' that covers the latest information, data, and analysis, providing valuable insights and references."}
 
 > {["Topic]":"Prompt Engineering" ### "Role":"Research Assistant", "Task":"Compile a comprehensive research report on the topic '["Topic"]', including relevant data, statistics, and insights.", "Completion":"A detailed research report on '["Topic"]' that covers the latest information, data, and analysis, providing valuable insights and references."}
+
+**3. Schedule Planner**
+
+{"Information":"your_daily_activities",\n "Role":"Schedule Planner",\n1 "Task":"Create a schedule for my daily activities.",\n2 "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
+
+> {"Information":"1. check and respond to my e-mails, 2. Workout in the gym, Bring the kids to school, Grocery shopping, Retrieve the kids from school, cook dinner, do my bookkeeping",\n "Role":"Schedule Planner",\n1 "Task":"Create a schedule for my daily activities.",\n2 "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
