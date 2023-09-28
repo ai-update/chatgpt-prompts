@@ -11,5 +11,7 @@ Made by Cas van Vliet: https://casvanvliet.com
 # Example
 
 **Content Summarizer** 
+
 {["Text"]:"your_text_here" ### "Role":"Content Summarizer", "Task":"Summarize the provided '["Text"]' into a concise and coherent summary.", "Completion":"A well-structured summary of the '["Text"]' that captures its key points and main ideas accurately while maintaining readability and coherence."}
+
 > {["Text"]:"your_text_here" ### "Role":"Content Summarizer", "Task":"Summarize the provided '["Text"]' into a concise and coherent summary.", "Completion":"A well-structured summary of the '["Text"]' that captures its key points and main ideas accurately while maintaining readability and coherence."}
