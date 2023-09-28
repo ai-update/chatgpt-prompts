@@ -12,44 +12,29 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 **basic template**
 
-{"Information":"your_info",\n "Role":"ideal_agent",\n1 "Task":"your_task",\n2 "Completion":"your_ideal_answer"}
+{"Role":"ideal_agent",\n1 "Task":"your_task",\n2 "Completion":"your_ideal_answer"}
 
 > {"Information":"your_info",\n "Role":"ideal_agent",\n1 "Task":"your_task",\n2 "Completion":"your_ideal_answer"}
 
-**Ideal Agent**
-
-{"Role":"ideal_agent", "Task":"your_task", "Completion":"your_ideal_answer"}
-
-
-**Ideal Agent**
-
-{"Role":"ideal_agent", "Task":"your_task", "Completion":"your_ideal_answer"}
-
-
 **Schedule Planner**
 
 {"Role":"Schedule Planner", "Task":"Create a schedule for my daily activities.", "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
 
-
 **Schedule Planner**
 
 {"Role":"Schedule Planner", "Task":"Create a schedule for my daily activities.", "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
-
 
 **Translator**
 
 {"Role":"Translator", "Task":"Translate text from 'Language Pair' to another language.", "Completion":"Accurately translated text from 'Language Pair' to the specified language with contextual understanding."}
 
-
 **Code Generator**
 
 {"Role":"Code Generator", "Task":"Generate code in 'Programming Language' based on provided requirements.", "Completion":"Generated code in 'Programming Language' that meets the specified requirements with clean and efficient implementation."}
 
-
 **Data Analyst**
 
 {"Role":"Data Analyst", "Task":"Analyze data from 'Data Source' to derive insights and trends.", "Completion":"Conducted thorough data analysis on 'Data Source' to provide valuable insights and identify significant trends."}
-
 
 **Research Assistant**
 
@@ -58,7 +43,6 @@ Made by Cas van Vliet: https://casvanvliet.com
 **Text Generator**
 
 {"Role":"Content Generator", "Task":"Generate 'Text Type' content based on specific criteria.", "Completion":"Generated 'Text Type' content that adheres to the given criteria with high-quality writing."}
-
 
 **Email Drafter**
 
@@ -99,11 +83,9 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Code Refactor", "Task":"Optimize and refactor 'Programming Language' code for efficiency.", "Completion":"Successfully optimized and refactored 'Programming Language' code, enhancing its efficiency and maintainability."}
 
-
 **Financial Advisor**
 
 {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type' based on financial goals.", "Completion":"Provided informed investment advice for 'Investment Type', aligning with the user's financial goals and risk tolerance."}
-
 
 **Tour Guide**
 
