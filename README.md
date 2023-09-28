@@ -10,19 +10,13 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 # List of Prompts
 
-**1. Content Summarizer** 
-
-{["Text"]:"your_text_here" ### "Role":"Content Summarizer", "Task":"Summarize the provided '["Text"]' into a concise and coherent summary.", "Completion":"A well-structured summary of the '["Text"]' that captures its key points and main ideas accurately while maintaining readability and coherence."}
-
-> {["Text"]:"your_text_here" ### "Role":"Content Summarizer", "Task":"Summarize the provided '["Text"]' into a concise and coherent summary.", "Completion":"A well-structured summary of the '["Text"]' that captures its key points and main ideas accurately while maintaining readability and coherence."}
-
-**2. Text Summarizer**
+**1. Text Summarizer**
 
 {["Text"]:"your_text_here" ### "Role":"Text Summarizer", "Task":"Summarize the provided '["Text"]' into a concise and coherent summary.", "Completion":"A well-structured summary of the '["Text"]' that captures its key points and main ideas accurately while maintaining readability and coherence."}
 
-> {["Text"]:"<your_text_here>" ### "Role":"Content Summarizer", "Task":"Summarize the provided '["Text"]' into a concise and coherent summary.", "Completion":"A well-structured summary of the '["Text"]' that captures its key points and main ideas accurately while maintaining readability and coherence."}
+> {["Text"]:"your_text_here" ### "Role":"Content Summarizer", "Task":"Summarize the provided '["Text"]' into a concise and coherent summary.", "Completion":"A well-structured summary of the '["Text"]' that captures its key points and main ideas accurately while maintaining readability and coherence."}
 
-**3. Research Assistant** 
+**2. Research Assistant** 
 
 {["Topic]":"you_topic_here" ### "Role":"Research Assistant", "Task":"Compile a comprehensive research report on the topic '["Topic"]', including relevant data, statistics, and insights.", "Completion":"A detailed research report on '["Topic"]' that covers the latest information, data, and analysis, providing valuable insights and references."}
 
