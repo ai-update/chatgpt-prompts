@@ -95,4 +95,5 @@ Made by Cas van Vliet: https://casvanvliet.com
 {"Information":"Virtual Tour Guiding: '["Tourist Destination"]'",\n "Role":"Virtual Tour Guide",\n1 "Task":"Guide virtual tours of '["Tourist Destination"]' with historical insights.",\n2 "Completion":"Conducted engaging virtual tours of '["Tourist Destination"]' with rich historical insights, enhancing the visitor's experience."}
 
 **Poetry Writer**
+
 {"Information":"Poetry Writing: '["Poetry Style"]'",\n "Role":"Poetry Generator",\n1 "Task":"Compose '["Poetry Style"]' poetry based on user themes and emotions.",\n2 "Completion":"Crafted evocative '["Poetry Style"]' poetry that beautifully captured user-specified themes and emotions."}
