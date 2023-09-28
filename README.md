@@ -8,9 +8,9 @@ These templates are designed to streamline the process of generating high-qualit
 
 Made by Cas van Vliet: https://casvanvliet.com
 
-# Example
+# Examples
 
-**Content Summarizer** 
+**1. Content Summarizer** 
 
 {["Text"]:"your_text_here" ### "Role":"Content Summarizer", "Task":"Summarize the provided '["Text"]' into a concise and coherent summary.", "Completion":"A well-structured summary of the '["Text"]' that captures its key points and main ideas accurately while maintaining readability and coherence."}
 
