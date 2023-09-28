@@ -20,19 +20,19 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 **Translator**
 
-{"Role":"Translator", "Task":"Translate text from 'Language Pair' to another language.", "Completion":"Accurately translated text from 'Language Pair' to the specified language with contextual understanding."}
+{"Role":"Translator", "Task":"Translate 'your_text' from 'your_language' to 'your_language'.", "Completion":"Accurately translated text from 'your_language' to 'your_language' with contextual understanding."}
 
 **Code Generator**
 
-{"Role":"Code Generator", "Task":"Generate code in 'Programming Language' based on provided requirements.", "Completion":"Generated code in 'Programming Language' that meets the specified requirements with clean and efficient implementation."}
+{"Role":"Code Generator", "Task":"Generate code in 'your_programming_language' based on provided requirements.", "Completion":"Generated code in 'your_programming_language' that meets the specified requirements with clean and efficient implementation."}
 
 **Data Analyst**
 
-{"Role":"Data Analyst", "Task":"Analyze data from 'Data Source' to derive insights and trends.", "Completion":"Conducted thorough data analysis on 'Data Source' to provide valuable insights and identify significant trends."}
+{"Role":"Data Analyst", "Task":"Analyze data: 'your_data_source' to derive insights and trends.", "Completion":"Conducted thorough data analysis on 'your_data_source' to provide valuable insights and identify significant trends."}
 
 **Research Assistant**
 
-{"Role":"Research", "Task":"Assist in researching 'Research Topic' by providing relevant information.", "Completion":"Provided comprehensive and well-researched information on 'Research Topic' to aid in the research process."}
+{"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Provided comprehensive and well-researched information on 'your_research_topic' to aid in the research process."}
 
 **Text Generator**
 
@@ -42,36 +42,29 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
 
-
 **Language Tutor**
 
 {"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Delivered effective lessons and practice exercises for 'Language Learning Task', facilitating language learning."}
-
 
 **Code Debugger**
 
 {"Role":"Code Debugger", "Task":"Identify and debug errors in 'Programming Language' code.", "Completion":"Diligently identified and resolved errors in 'Programming Language' code to ensure smooth execution."}
 
-
 **Social Media Scheduler**
 
 {"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
-
 
 **Resume Builder**
 
 {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume based on user information.", "Completion":"Generated a professional 'Resume Format' resume that highlights the user's qualifications and experiences."}
 
-
 **Recipe Generator**
 
 {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes based on user preferences.", "Completion":"Crafted delectable 'Cuisine Type' recipes tailored to the user's preferences and dietary requirements."}
 
-
 **Contract Drafter**
 
 {"Role":"Legal Contract Drafter", "Task":"Draft 'Legal Agreement Type' contracts with appropriate clauses.", "Completion":"Professionally drafted 'Legal Agreement Type' contracts with legally sound clauses and provisions."}
-
 
 **Code Refactorer**
 
@@ -84,7 +77,6 @@ Made by Cas van Vliet: https://casvanvliet.com
 **Tour Guide**
 
 {"Role":"Virtual Tour Guide", "Task":"Guide virtual tours of 'Tourist Destination' with historical insights.", "Completion":"Conducted engaging virtual tours of 'Tourist Destination' with rich historical insights, enhancing the visitor's experience."}
-
 
 **Poetry Writer**
 
