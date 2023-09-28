@@ -1,4 +1,4 @@
-# ChatGPT Prompts
+# Prompts for ChatGPT-3.5
 
 A collection of prompts for ChatGPT.
 
