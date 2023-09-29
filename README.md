@@ -56,17 +56,15 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Delivered effective lessons and practice exercises for 'Language Learning Task', facilitating language learning."}
 
-**Social Media Scheduler**
+**Recipe Generator**
 
-{"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
+{"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes based on user preferences.", "Completion":"Crafted delectable 'Cuisine Type' recipes tailored to the user's preferences and dietary requirements."}
+
+# Prompts for Corporate Activities
 
 **Resume Builder**
 
 {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume based on user information.", "Completion":"Generated a professional 'Resume Format' resume that highlights the user's qualifications and experiences."}
-
-**Recipe Generator**
-
-{"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes based on user preferences.", "Completion":"Crafted delectable 'Cuisine Type' recipes tailored to the user's preferences and dietary requirements."}
 
 **Contract Drafter**
 
@@ -87,3 +85,9 @@ Made by Cas van Vliet: https://casvanvliet.com
 **Poetry Writer**
 
 {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry based on user themes and emotions.", "Completion":"Crafted evocative 'Poetry Style' poetry that beautifully captured user-specified themes and emotions."}
+
+# Prompts for Social Media
+
+**Social Media Scheduler**
+
+{"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
