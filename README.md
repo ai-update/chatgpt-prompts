@@ -1,6 +1,6 @@
 # Prompts: ChatGPT-3.5
 
-A collection of prompts for the free version of ChatGPT.
+A collection of prompts for the _free version_ of ChatGPT.
 
 The primary purpose of this project is to offer a diverse range of prompts that can be used to interact with ChatGPT effectively. 
 
