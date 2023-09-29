@@ -12,19 +12,17 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 > {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
-# List of Prompts
+# Prompts for Daily Activities
 
 **Schedule Planner**
 
 {"Role":"Schedule Planner", "Task":"Create a schedule for my daily activities.", "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
 
-**Translator**
+**Email Drafter**
 
-{"Role":"Translator", "Task":"Translate 'your_text' from 'your_language' to 'your_language'.", "Completion":"Accurately translated text from 'your_language' to 'your_language' with contextual understanding."}
+{"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
 
-**Code Generator**
-
-{"Role":"Code Generator", "Task":"Generate code in 'your_programming_language' based on provided requirements.", "Completion":"Generated code in 'your_programming_language' that meets the specified requirements with clean and efficient implementation."}
+# Prompts for Research
 
 **Data Analyst**
 
@@ -34,17 +32,29 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Provided comprehensive and well-researched information on 'your_research_topic' to aid in the research process."}
 
-**Email Drafter**
+# Prompts for Programming
 
-{"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
+**Code Generator**
 
-**Language Tutor**
-
-{"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Delivered effective lessons and practice exercises for 'Language Learning Task', facilitating language learning."}
+{"Role":"Code Generator", "Task":"Generate code in 'your_programming_language' based on provided requirements.", "Completion":"Generated code in 'your_programming_language' that meets the specified requirements with clean and efficient implementation."}
 
 **Code Debugger**
 
 {"Role":"Code Debugger", "Task":"Identify and debug errors in 'Programming Language' code.", "Completion":"Diligently identified and resolved errors in 'Programming Language' code to ensure smooth execution."}
+
+**Code Refactorer**
+
+{"Role":"Code Refactor", "Task":"Optimize and refactor 'Programming Language' code for efficiency.", "Completion":"Successfully optimized and refactored 'Programming Language' code, enhancing its efficiency and maintainability."}
+
+# Prompts for Languages
+
+**Translator**
+
+{"Role":"Translator", "Task":"Translate 'your_text' from 'your_language' to 'your_language'.", "Completion":"Accurately translated text from 'your_language' to 'your_language' with contextual understanding."}
+
+**Language Tutor**
+
+{"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Delivered effective lessons and practice exercises for 'Language Learning Task', facilitating language learning."}
 
 **Social Media Scheduler**
 
@@ -62,17 +72,17 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Legal Contract Drafter", "Task":"Draft 'Legal Agreement Type' contracts with appropriate clauses.", "Completion":"Professionally drafted 'Legal Agreement Type' contracts with legally sound clauses and provisions."}
 
-**Code Refactorer**
-
-{"Role":"Code Refactor", "Task":"Optimize and refactor 'Programming Language' code for efficiency.", "Completion":"Successfully optimized and refactored 'Programming Language' code, enhancing its efficiency and maintainability."}
-
 **Financial Advisor**
 
 {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type' based on financial goals.", "Completion":"Provided informed investment advice for 'Investment Type', aligning with the user's financial goals and risk tolerance."}
 
+# Prompts for Holidays 
+
 **Tour Guide**
 
 {"Role":"Virtual Tour Guide", "Task":"Guide virtual tours of 'Tourist Destination' with historical insights.", "Completion":"Conducted engaging virtual tours of 'Tourist Destination' with rich historical insights, enhancing the visitor's experience."}
+
+# Prompts for Creative Writing
 
 **Poetry Writer**
 
