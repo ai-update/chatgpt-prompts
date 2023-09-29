@@ -12,7 +12,7 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 > {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
-# Prompts for Daily Activities
+# Daily Activities
 
 **Schedule Planner**
 
@@ -22,7 +22,7 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
 
-# Prompts for Research
+# Research
 
 **Data Analyst**
 
@@ -32,7 +32,7 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Provided comprehensive and well-researched information on 'your_research_topic' to aid in the research process."}
 
-# Prompts for Programming
+# Programming
 
 **Code Generator**
 
@@ -46,7 +46,7 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Code Refactor", "Task":"Optimize and refactor 'Programming Language' code for efficiency.", "Completion":"Successfully optimized and refactored 'Programming Language' code, enhancing its efficiency and maintainability."}
 
-# Prompts for Languages
+# Languages
 
 **Translator**
 
@@ -60,7 +60,7 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes based on user preferences.", "Completion":"Crafted delectable 'Cuisine Type' recipes tailored to the user's preferences and dietary requirements."}
 
-# Prompts for Corporate Activities
+# Corporate Activities
 
 **Resume Builder**
 
@@ -74,19 +74,19 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type' based on financial goals.", "Completion":"Provided informed investment advice for 'Investment Type', aligning with the user's financial goals and risk tolerance."}
 
-# Prompts for Holidays 
+# Holidays 
 
 **Tour Guide**
 
 {"Role":"Virtual Tour Guide", "Task":"Guide virtual tours of 'Tourist Destination' with historical insights.", "Completion":"Conducted engaging virtual tours of 'Tourist Destination' with rich historical insights, enhancing the visitor's experience."}
 
-# Prompts for Creative Writing
+# Creative Writing
 
 **Poetry Writer**
 
 {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry based on user themes and emotions.", "Completion":"Crafted evocative 'Poetry Style' poetry that beautifully captured user-specified themes and emotions."}
 
-# Prompts for Social Media
+# Social Media
 
 **Social Media Scheduler**
 
