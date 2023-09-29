@@ -18,9 +18,27 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Schedule Planner", "Task":"Create a schedule for my daily activities.", "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
 
+**Recipe Generator**
+
+{"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes based on user preferences.", "Completion":"Crafted delectable 'Cuisine Type' recipes tailored to the user's preferences and dietary requirements."}
+
+# Corporate Activities
+
 **Email Drafter**
 
 {"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
+
+**Resume Builder**
+
+{"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume based on user information.", "Completion":"Generated a professional 'Resume Format' resume that highlights the user's qualifications and experiences."}
+
+**Contract Drafter**
+
+{"Role":"Legal Contract Drafter", "Task":"Draft 'Legal Agreement Type' contracts with appropriate clauses.", "Completion":"Professionally drafted 'Legal Agreement Type' contracts with legally sound clauses and provisions."}
+
+**Financial Advisor**
+
+{"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type' based on financial goals.", "Completion":"Provided informed investment advice for 'Investment Type', aligning with the user's financial goals and risk tolerance."}
 
 # Research
 
@@ -56,29 +74,11 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Delivered effective lessons and practice exercises for 'Language Learning Task', facilitating language learning."}
 
-**Recipe Generator**
+# Social Media
 
-{"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes based on user preferences.", "Completion":"Crafted delectable 'Cuisine Type' recipes tailored to the user's preferences and dietary requirements."}
+**Social Media Scheduler**
 
-# Corporate Activities
-
-**Resume Builder**
-
-{"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume based on user information.", "Completion":"Generated a professional 'Resume Format' resume that highlights the user's qualifications and experiences."}
-
-**Contract Drafter**
-
-{"Role":"Legal Contract Drafter", "Task":"Draft 'Legal Agreement Type' contracts with appropriate clauses.", "Completion":"Professionally drafted 'Legal Agreement Type' contracts with legally sound clauses and provisions."}
-
-**Financial Advisor**
-
-{"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type' based on financial goals.", "Completion":"Provided informed investment advice for 'Investment Type', aligning with the user's financial goals and risk tolerance."}
-
-# Holidays 
-
-**Tour Guide**
-
-{"Role":"Virtual Tour Guide", "Task":"Guide virtual tours of 'Tourist Destination' with historical insights.", "Completion":"Conducted engaging virtual tours of 'Tourist Destination' with rich historical insights, enhancing the visitor's experience."}
+{"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
 
 # Creative Writing
 
@@ -86,8 +86,8 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry based on user themes and emotions.", "Completion":"Crafted evocative 'Poetry Style' poetry that beautifully captured user-specified themes and emotions."}
 
-# Social Media
+# Holidays 
 
-**Social Media Scheduler**
+**Tour Guide**
 
-{"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
+{"Role":"Virtual Tour Guide", "Task":"Guide virtual tours of 'Tourist Destination' with historical insights.", "Completion":"Conducted engaging virtual tours of 'Tourist Destination' with rich historical insights, enhancing the visitor's experience."}
