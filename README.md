@@ -12,7 +12,7 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 > {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
-# Daily Activities
+# General
 
 **Schedule Planner**
 
@@ -22,7 +22,7 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes based on user preferences.", "Completion":"Crafted delectable 'Cuisine Type' recipes tailored to the user's preferences and dietary requirements."}
 
-# Corporate Activities
+# Corporate
 
 **Email Drafter**
 
@@ -80,13 +80,13 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 {"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
 
-# Creative Writing
+# Writing
 
 **Poetry Writer**
 
 {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry based on user themes and emotions.", "Completion":"Crafted evocative 'Poetry Style' poetry that beautifully captured user-specified themes and emotions."}
 
-# Holidays 
+# Vacation 
 
 **Tour Guide**
 
