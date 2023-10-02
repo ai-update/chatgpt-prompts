@@ -52,7 +52,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 # 🖳 Programming
 
-**Code Generator**
+🖳 **Code Generator**
 
 > {"Role":"Code Generator", "Task":"Generate code in 'your_programming_language' based on provided requirements.", "Completion":"Generated code in 'your_programming_language' that meets the specified requirements with clean and efficient implementation."}
 
@@ -66,7 +66,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 # 🗣️ Languages
 
-**Translator**
+📝 **Translator**
 
 > {"Role":"Translator", "Task":"Translate 'your_text' from 'your_language' to 'your_language'.", "Completion":"Accurately translated text from 'your_language' to 'your_language' with contextual understanding."}
 
@@ -82,12 +82,12 @@ The prompts are designed to automate the process of generating high-quality resp
 
 # ✍️ Writing
 
-**Poetry Writer**
+✍️ **Poetry Writer**
 
 > {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry based on user themes and emotions.", "Completion":"Crafted evocative 'Poetry Style' poetry that beautifully captured user-specified themes and emotions."}
 
 # 👙 Vacation 
 
-**Tour Guide**
+🗣️ **Tour Guide**
 
 > {"Role":"Virtual Tour Guide", "Task":"Guide virtual tours of 'Tourist Destination' with historical insights.", "Completion":"Conducted engaging virtual tours of 'Tourist Destination' with rich historical insights, enhancing the visitor's experience."}
