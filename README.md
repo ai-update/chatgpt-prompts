@@ -26,11 +26,11 @@ The prompts are designed to automate the process of generating high-quality resp
 
 📧 **Email Drafter**
 
-{"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
+> {"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
 
 📝 **Resume Builder**
 
-{"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume based on user information.", "Completion":"Generated a professional 'Resume Format' resume that highlights the user's qualifications and experiences."}
+> {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume based on user information.", "Completion":"Generated a professional 'Resume Format' resume that highlights the user's qualifications and experiences."}
 
 📝 **Contract Drafter**
 
@@ -38,7 +38,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 **Financial Advisor**
 
-{"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type' based on financial goals.", "Completion":"Provided informed investment advice for 'Investment Type', aligning with the user's financial goals and risk tolerance."}
+> {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type' based on financial goals.", "Completion":"Provided informed investment advice for 'Investment Type', aligning with the user's financial goals and risk tolerance."}
 
 # 🔎 Research
 
@@ -48,46 +48,46 @@ The prompts are designed to automate the process of generating high-quality resp
 
 🔬 **Research Assistant**
 
-{"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Provided comprehensive and well-researched information on 'your_research_topic' to aid in the research process."}
+> {"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Provided comprehensive and well-researched information on 'your_research_topic' to aid in the research process."}
 
 # 🖳 Programming
 
 **Code Generator**
 
-{"Role":"Code Generator", "Task":"Generate code in 'your_programming_language' based on provided requirements.", "Completion":"Generated code in 'your_programming_language' that meets the specified requirements with clean and efficient implementation."}
+> {"Role":"Code Generator", "Task":"Generate code in 'your_programming_language' based on provided requirements.", "Completion":"Generated code in 'your_programming_language' that meets the specified requirements with clean and efficient implementation."}
 
 🖳 **Code Debugger**
 
-{"Role":"Code Debugger", "Task":"Identify and debug errors in 'Programming Language' code.", "Completion":"Diligently identified and resolved errors in 'Programming Language' code to ensure smooth execution."}
+> {"Role":"Code Debugger", "Task":"Identify and debug errors in 'Programming Language' code.", "Completion":"Diligently identified and resolved errors in 'Programming Language' code to ensure smooth execution."}
 
 🖳 **Code Refactorer**
 
-{"Role":"Code Refactor", "Task":"Optimize and refactor 'Programming Language' code for efficiency.", "Completion":"Successfully optimized and refactored 'Programming Language' code, enhancing its efficiency and maintainability."}
+> {"Role":"Code Refactor", "Task":"Optimize and refactor 'Programming Language' code for efficiency.", "Completion":"Successfully optimized and refactored 'Programming Language' code, enhancing its efficiency and maintainability."}
 
 # 🗣️ Languages
 
 **Translator**
 
-{"Role":"Translator", "Task":"Translate 'your_text' from 'your_language' to 'your_language'.", "Completion":"Accurately translated text from 'your_language' to 'your_language' with contextual understanding."}
+> {"Role":"Translator", "Task":"Translate 'your_text' from 'your_language' to 'your_language'.", "Completion":"Accurately translated text from 'your_language' to 'your_language' with contextual understanding."}
 
 🗣️ **Language Tutor**
 
-{"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Delivered effective lessons and practice exercises for 'Language Learning Task', facilitating language learning."}
+> {"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Delivered effective lessons and practice exercises for 'Language Learning Task', facilitating language learning."}
 
 # 📱 Social Media
 
 📝 **Social Media Scheduler**
 
-{"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
+> {"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
 
 # ✍️ Writing
 
 **Poetry Writer**
 
-{"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry based on user themes and emotions.", "Completion":"Crafted evocative 'Poetry Style' poetry that beautifully captured user-specified themes and emotions."}
+> {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry based on user themes and emotions.", "Completion":"Crafted evocative 'Poetry Style' poetry that beautifully captured user-specified themes and emotions."}
 
 # 👙 Vacation 
 
 **Tour Guide**
 
-{"Role":"Virtual Tour Guide", "Task":"Guide virtual tours of 'Tourist Destination' with historical insights.", "Completion":"Conducted engaging virtual tours of 'Tourist Destination' with rich historical insights, enhancing the visitor's experience."}
+> {"Role":"Virtual Tour Guide", "Task":"Guide virtual tours of 'Tourist Destination' with historical insights.", "Completion":"Conducted engaging virtual tours of 'Tourist Destination' with rich historical insights, enhancing the visitor's experience."}
