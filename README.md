@@ -34,7 +34,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 📝 **Contract Drafter**
 
-{"Role":"Legal Contract Drafter", "Task":"Draft 'Legal Agreement Type' contracts with appropriate clauses.", "Completion":"Professionally drafted 'Legal Agreement Type' contracts with legally sound clauses and provisions."}
+> {"Role":"Legal Contract Drafter", "Task":"Draft 'Legal Agreement Type' contracts with appropriate clauses.", "Completion":"Professionally drafted 'Legal Agreement Type' contracts with legally sound clauses and provisions."}
 
 **Financial Advisor**
 
@@ -44,7 +44,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 📊 **Data Analyst**
 
-{"Role":"Data Analyst", "Task":"Analyze data: 'your_data_source' to derive insights and trends.", "Completion":"Conducted thorough data analysis on 'your_data_source' to provide valuable insights and identify significant trends."}
+> {"Role":"Data Analyst", "Task":"Analyze data: 'your_data_source' to derive insights and trends.", "Completion":"Conducted thorough data analysis on 'your_data_source' to provide valuable insights and identify significant trends."}
 
 🔬 **Research Assistant**
 
