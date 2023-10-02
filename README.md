@@ -16,11 +16,11 @@ The prompts are designed to automate the process of generating high-quality resp
 
 📝 **Schedule Planner**
 
-{"Role":"Schedule Planner", "Task":"Create a schedule for my daily activities.", "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
+> {"Role":"Schedule Planner", "Task":"Create a schedule for my daily activities.", "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
 
 🍲 **Recipe Generator**
 
-{"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes based on user preferences.", "Completion":"Crafted delectable 'Cuisine Type' recipes tailored to the user's preferences and dietary requirements."}
+> {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes based on user preferences.", "Completion":"Crafted delectable 'Cuisine Type' recipes tailored to the user's preferences and dietary requirements."}
 
 # 👔 Corporate
 
