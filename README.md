@@ -12,7 +12,7 @@ https://casvanvliet.substack.com
 
 > {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
-# 📝 General
+# 👩🏻‍💻 General
 
 📝 **Schedule Planner**
 
