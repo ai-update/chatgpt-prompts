@@ -12,27 +12,27 @@ https://casvanvliet.substack.com
 
 > {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
-# General
+# 📝 General
 
-**Schedule Planner**
+📝 **Schedule Planner**
 
 {"Role":"Schedule Planner", "Task":"Create a schedule for my daily activities.", "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
 
-**Recipe Generator**
+🍲 **Recipe Generator**
 
 {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes based on user preferences.", "Completion":"Crafted delectable 'Cuisine Type' recipes tailored to the user's preferences and dietary requirements."}
 
-# Corporate
+# 👔 Corporate
 
-**Email Drafter**
+📧 **Email Drafter**
 
 {"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
 
-**Resume Builder**
+📝 **Resume Builder**
 
 {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume based on user information.", "Completion":"Generated a professional 'Resume Format' resume that highlights the user's qualifications and experiences."}
 
-**Contract Drafter**
+📝 **Contract Drafter**
 
 {"Role":"Legal Contract Drafter", "Task":"Draft 'Legal Agreement Type' contracts with appropriate clauses.", "Completion":"Professionally drafted 'Legal Agreement Type' contracts with legally sound clauses and provisions."}
 
