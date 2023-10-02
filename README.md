@@ -4,9 +4,9 @@ A collection of prompts for the _free version_ of ChatGPT:
 
 🌐 https://openai.com/chatgpt
 
-The purpose of this project is to offer a diverse range of prompts that can be used to interact with ChatGPT effectively. 
+🦾 The purpose of this project is to offer a diverse range of prompts that can be used to interact with ChatGPT effectively. 
 
-The prompts are designed to automate the process of generating high-quality responses from ChatGPT; making it easier to acces the full potential of the A.I. model.
+✅ The prompts are designed to automate the process of generating high-quality responses from ChatGPT; making it easier to acces the full potential of the A.I. model.
 
 🌐 https://casvanvliet.substack.com
 
@@ -38,7 +38,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 > {"Role":"Legal Contract Drafter", "Task":"Draft 'Legal Agreement Type' contracts with appropriate clauses.", "Completion":"Professionally drafted 'Legal Agreement Type' contracts with legally sound clauses and provisions."}
 
-**Financial Advisor**
+💲 **Financial Advisor**
 
 > {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type' based on financial goals.", "Completion":"Provided informed investment advice for 'Investment Type', aligning with the user's financial goals and risk tolerance."}
 
