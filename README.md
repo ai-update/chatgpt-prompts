@@ -14,7 +14,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 > {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
-# 👩🏻‍💻 General
+## 👩🏻‍💻 General
 
 📝 **Schedule Planner**
 
@@ -24,7 +24,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 > {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes based on user preferences.", "Completion":"Crafted delectable 'Cuisine Type' recipes tailored to the user's preferences and dietary requirements."}
 
-# 👔 Corporate
+## 👔 Corporate
 
 📧 **Email Drafter**
 
@@ -42,7 +42,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 > {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type' based on financial goals.", "Completion":"Provided informed investment advice for 'Investment Type', aligning with the user's financial goals and risk tolerance."}
 
-# 🔎 Research
+## 🔎 Research
 
 📊 **Data Analyst**
 
@@ -52,7 +52,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 > {"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Provided comprehensive and well-researched information on 'your_research_topic' to aid in the research process."}
 
-# 🖳 Programming
+## 🖳 Programming
 
 🖳 **Code Generator**
 
@@ -66,7 +66,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 > {"Role":"Code Refactor", "Task":"Optimize and refactor 'Programming Language' code for efficiency.", "Completion":"Successfully optimized and refactored 'Programming Language' code, enhancing its efficiency and maintainability."}
 
-# 🗣️ Languages
+## 🗣️ Languages
 
 📝 **Translator**
 
@@ -82,13 +82,13 @@ The prompts are designed to automate the process of generating high-quality resp
 
 > {"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
 
-# ✍️ Writing
+## ✍️ Writing
 
 ✍️ **Poetry Writer**
 
 > {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry based on user themes and emotions.", "Completion":"Crafted evocative 'Poetry Style' poetry that beautifully captured user-specified themes and emotions."}
 
-# 👙 Vacation 
+## 👙 Vacation 
 
 🗣️ **Tour Guide**
 
