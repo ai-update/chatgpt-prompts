@@ -2,11 +2,11 @@
 
 A collection of prompts for the _free version_ of ChatGPT.
 
-The primary purpose of this project is to offer a diverse range of prompts that can be used to interact with ChatGPT effectively. 
+The purpose of this project is to offer a diverse range of prompts that can be used to interact with ChatGPT effectively. 
 
-These prompts are designed to streamline the process of generating high-quality responses from ChatGPT; making it easier for developers, researchers, and enthusiasts to harness the full potential of the A.I. model.
+The prompts are designed to automate the process of generating high-quality responses from ChatGPT; making it easier to acces the full potential of the A.I. model.
 
-https://casvanvliet.substack.com
+🌐 https://casvanvliet.substack.com
 
 # DIY Template
 
@@ -40,27 +40,27 @@ https://casvanvliet.substack.com
 
 {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type' based on financial goals.", "Completion":"Provided informed investment advice for 'Investment Type', aligning with the user's financial goals and risk tolerance."}
 
-# Research
+# 🔎 Research
 
-**Data Analyst**
+📊 **Data Analyst**
 
 {"Role":"Data Analyst", "Task":"Analyze data: 'your_data_source' to derive insights and trends.", "Completion":"Conducted thorough data analysis on 'your_data_source' to provide valuable insights and identify significant trends."}
 
-**Research Assistant**
+🔬 **Research Assistant**
 
 {"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Provided comprehensive and well-researched information on 'your_research_topic' to aid in the research process."}
 
-# Programming
+🖳 # Programming
 
 **Code Generator**
 
 {"Role":"Code Generator", "Task":"Generate code in 'your_programming_language' based on provided requirements.", "Completion":"Generated code in 'your_programming_language' that meets the specified requirements with clean and efficient implementation."}
 
-**Code Debugger**
+🖳 **Code Debugger**
 
 {"Role":"Code Debugger", "Task":"Identify and debug errors in 'Programming Language' code.", "Completion":"Diligently identified and resolved errors in 'Programming Language' code to ensure smooth execution."}
 
-**Code Refactorer**
+🖳 **Code Refactorer**
 
 {"Role":"Code Refactor", "Task":"Optimize and refactor 'Programming Language' code for efficiency.", "Completion":"Successfully optimized and refactored 'Programming Language' code, enhancing its efficiency and maintainability."}
 
