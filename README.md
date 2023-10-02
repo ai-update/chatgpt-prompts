@@ -4,9 +4,7 @@
 
 🌐 https://openai.com/chatgpt
 
-🦾 The purpose of this project is to offer a diverse range of prompts that can be used to interact with ChatGPT effectively. 
-
-✅ The prompts are designed to automate the process of generating high-quality responses from ChatGPT; making it easier to acces the full potential of the A.I. model.
+The prompts are designed to automate the process of generating high-quality responses from ChatGPT; making it easier to acces the full potential of the A.I. model.
 
 🌐 https://casvanvliet.substack.com
 
