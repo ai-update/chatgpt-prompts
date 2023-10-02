@@ -50,7 +50,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 {"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Provided comprehensive and well-researched information on 'your_research_topic' to aid in the research process."}
 
-🖳 # Programming
+# 🖳 Programming
 
 **Code Generator**
 
@@ -64,29 +64,29 @@ The prompts are designed to automate the process of generating high-quality resp
 
 {"Role":"Code Refactor", "Task":"Optimize and refactor 'Programming Language' code for efficiency.", "Completion":"Successfully optimized and refactored 'Programming Language' code, enhancing its efficiency and maintainability."}
 
-# Languages
+# 🗣️ Languages
 
 **Translator**
 
 {"Role":"Translator", "Task":"Translate 'your_text' from 'your_language' to 'your_language'.", "Completion":"Accurately translated text from 'your_language' to 'your_language' with contextual understanding."}
 
-**Language Tutor**
+🗣️ **Language Tutor**
 
 {"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Delivered effective lessons and practice exercises for 'Language Learning Task', facilitating language learning."}
 
-# Social Media
+# 📱 Social Media
 
-**Social Media Scheduler**
+📝 **Social Media Scheduler**
 
 {"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
 
-# Writing
+# ✍️ Writing
 
 **Poetry Writer**
 
 {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry based on user themes and emotions.", "Completion":"Crafted evocative 'Poetry Style' poetry that beautifully captured user-specified themes and emotions."}
 
-# Vacation 
+# 👙 Vacation 
 
 **Tour Guide**
 
