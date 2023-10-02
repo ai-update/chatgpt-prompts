@@ -76,7 +76,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 > {"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Delivered effective lessons and practice exercises for 'Language Learning Task', facilitating language learning."}
 
-# 📱 Social Media
+## 📱 Social Media
 
 📝 **Social Media Scheduler**
 
