@@ -10,7 +10,7 @@ The prompts are designed to automate the process of generating high-quality resp
 
 🌐 https://casvanvliet.substack.com
 
-# DIY Template
+# 🧑‍🔧 DIY Template
 
 > {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
