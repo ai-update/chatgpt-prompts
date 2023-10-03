@@ -1,10 +1,10 @@
 # ChatGPT-3.5 Prompts
 
-🤖 A collection of prompts for the _free version_ of ChatGPT:
+🤖 A collection of *selfmade* prompts for the _free version_ of ChatGPT:
 
 🌐 https://openai.com/chatgpt
 
-The prompts are designed to automate the process of generating high-quality responses from ChatGPT; making it easier to acces the full potential of the A.I. model.
+All prompts are designed by:
 
 🌐 https://casvanvliet.substack.com
 
