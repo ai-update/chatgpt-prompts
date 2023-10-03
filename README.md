@@ -8,10 +8,11 @@ All prompts are designed by:
 
 🌐 https://casvanvliet.substack.com
 
-# 🧑‍🔧 DIY Template
+## 🧑‍🔧 DIY Template
 
 > {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
+# Prompts:
 ## 👩🏻‍💻 General
 
 📝 **Schedule Planner**
