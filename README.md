@@ -11,7 +11,7 @@ All prompts are designed by:
 ## Table of Content
 
 - 🧑‍🔧 DIY Template
-  Prompts:
+- ### Prompts:
 - 👩🏻‍💻 General
 - 👔 Corporate
 - 🔎 Research
