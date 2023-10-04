@@ -1,6 +1,6 @@
 # ChatGPT-3.5 Prompts
 
-🤖 A collection of *selfmade* prompts for the _free version_ of ChatGPT:
+🤖 A collection of prompts for the _free version_ of ChatGPT:
 
 🌐 https://openai.com/chatgpt
 
