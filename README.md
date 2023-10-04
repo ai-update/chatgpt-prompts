@@ -8,12 +8,9 @@ All prompts are designed by:
 
 🌐 https://casvanvliet.substack.com
 
-## 🧑‍🔧 DIY Template
-
-> {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
-
 ## Table of Content
 
+- DIY Template
 - 👩🏻‍💻 General
 - 👔 Corporate
 - 🔎 Research
@@ -22,6 +19,10 @@ All prompts are designed by:
 - 📱 Social Media
 - ✍️ Writing
 - 👙 Vacation
+
+# 🧑‍🔧 DIY Template
+
+> {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
 # Prompts:
 ## 👩🏻‍💻 General
