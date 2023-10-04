@@ -12,6 +12,17 @@ All prompts are designed by:
 
 > {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
+## Table of Content
+
+- 👩🏻‍💻 General
+- 👔 Corporate
+- 🔎 Research
+- 🖳 Programming
+- 🗣️ Languages
+- 📱 Social Media
+- ✍️ Writing
+- 👙 Vacation
+
 # Prompts:
 ## 👩🏻‍💻 General
 
