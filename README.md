@@ -8,10 +8,9 @@ All prompts are designed by:
 
 🌐 https://casvanvliet.substack.com
 
-## Table of Content
+## Table of Contents
 
 - 🧑‍🔧 DIY Template
-- #### Prompts:
 - 👩🏻‍💻 General
 - 👔 Corporate
 - 🔎 Research
