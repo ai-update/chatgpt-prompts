@@ -10,7 +10,8 @@ All prompts are designed by:
 
 ## Table of Content
 
-- DIY Template
+- 🧑‍🔧 DIY Template
+  Prompts:
 - 👩🏻‍💻 General
 - 👔 Corporate
 - 🔎 Research
