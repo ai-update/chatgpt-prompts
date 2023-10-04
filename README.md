@@ -20,7 +20,7 @@ All prompts are designed by:
 - ✍️ Writing
 - 👙 Vacation
 
-# 🧑‍🔧 DIY Template
+## 🧑‍🔧 DIY Template
 
 > {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
