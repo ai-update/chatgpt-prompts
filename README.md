@@ -67,7 +67,7 @@ All prompts are designed by:
 
 🖳 **Code Generator**
 
-> {"Role":"Code Generator", "Task":"Generate code in 'your_programming_language' based on requirements provided later.", "Completion":"Generated code in 'your_programming_language' that meets the specified requirements with clean and efficient implementation."}
+> {"Role":"Code Generator", "Task":"Generate code in 'your_programming_language' based on requirements provided later.", "Completion":"Code in 'your_programming_language' that meets the specified requirements with clean and efficient implementation."}
 
 🖳 **Code Debugger**
 
@@ -85,7 +85,7 @@ All prompts are designed by:
 
 🗣️ **Language Tutor**
 
-> {"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Delivered effective lessons and practice exercises, facilitating language learning."}
+> {"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Effective lessons and practice exercises, facilitating language learning."}
 
 ## 📱 Social Media
 
@@ -103,4 +103,4 @@ All prompts are designed by:
 
 🗣️ **Tour Guide**
 
-> {"Role":"Virtual Tour Guide", "Task":"Guide virtual tours of 'Tourist Destination' with historical insights.", "Completion":"Conducted engaging virtual tours with rich historical insights, enhancing the visitor's experience."}
+> {"Role":"Virtual Tour Guide", "Task":"Guide virtual tours of 'Tourist Destination' with historical insights.", "Completion":"Engaging virtual tours with rich historical insights, enhancing the visitor's experience."}
