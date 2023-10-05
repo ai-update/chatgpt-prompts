@@ -97,7 +97,7 @@ All prompts are designed by:
 
 ✍️ **Poetry Writer**
 
-> {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry.", "Completion":""Evocative poetry that beautifully captured various themes and emotions."}
+> {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry.", "Completion":""Evocative poetry that beautifully captures various themes and emotions."}
 
 ## 👙 Vacation 
 
