@@ -57,11 +57,11 @@ All prompts are designed by:
 
 📊 **Data Analyst**
 
-> {"Role":"Data Analyst", "Task":"Analyze data: 'your_data_source' to derive insights and trends.", "Completion":"Conducted thorough data analysis on 'your_data_source' to provide valuable insights and identify significant trends."}
+> {"Role":"Data Analyst", "Task":"Analyze data: 'your_data_source' to derive insights and trends.", "Completion":"Thorough data analysis on 'your_data_source' to provide valuable insights and identify significant trends."}
 
 🔬 **Research Assistant**
 
-> {"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Provided comprehensive and well-researched information on 'your_research_topic' to aid in the research process."}
+> {"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Comprehensive and well-researched information to aid in the research process."}
 
 ## 🖳 Programming
 
