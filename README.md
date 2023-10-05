@@ -33,7 +33,7 @@ All prompts are designed by:
 
 🍲 **Recipe Generator**
 
-> {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes based on user preferences.", "Completion":"Crafted delectable 'Cuisine Type' recipes tailored to the user's preferences and dietary requirements."}
+> {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
 
 ## 👔 Corporate
 
@@ -43,7 +43,7 @@ All prompts are designed by:
 
 📝 **Resume Builder**
 
-> {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume based on user information.", "Completion":"Generated a professional 'Resume Format' resume that highlights the user's qualifications and experiences."}
+> {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume.", "Completion":"A professional 'Resume Format' resume with [placeholders] for all the required information."}
 
 📝 **Contract Drafter**
 
@@ -51,7 +51,7 @@ All prompts are designed by:
 
 💲 **Financial Advisor**
 
-> {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type' based on financial goals.", "Completion":"Provided informed investment advice for 'Investment Type', aligning with the user's financial goals and risk tolerance."}
+> {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type'.", "Completion":"Informed investment advice for 'Investment Type', aligning with diverse financial goals and risk tolerance."}
 
 ## 🔎 Research
 
@@ -67,7 +67,7 @@ All prompts are designed by:
 
 🖳 **Code Generator**
 
-> {"Role":"Code Generator", "Task":"Generate code in 'your_programming_language' based on provided requirements.", "Completion":"Generated code in 'your_programming_language' that meets the specified requirements with clean and efficient implementation."}
+> {"Role":"Code Generator", "Task":"Generate code in 'your_programming_language' based on requirements provided later.", "Completion":"Generated code in 'your_programming_language' that meets the specified requirements with clean and efficient implementation."}
 
 🖳 **Code Debugger**
 
@@ -81,11 +81,11 @@ All prompts are designed by:
 
 📝 **Translator**
 
-> {"Role":"Translator", "Task":"Translate 'your_text' from 'your_language' to 'your_language'.", "Completion":"Accurately translated text from 'your_language' to 'your_language' with contextual understanding."}
+> {"Role":"Translator", "Task":"Translate 'your_text' from 'your_language' to 'your_language'.", "Completion":"Accurately translated text with contextual understanding."}
 
 🗣️ **Language Tutor**
 
-> {"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Delivered effective lessons and practice exercises for 'Language Learning Task', facilitating language learning."}
+> {"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Delivered effective lessons and practice exercises, facilitating language learning."}
 
 ## 📱 Social Media
 
@@ -97,10 +97,10 @@ All prompts are designed by:
 
 ✍️ **Poetry Writer**
 
-> {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry based on user themes and emotions.", "Completion":"Crafted evocative 'Poetry Style' poetry that beautifully captured user-specified themes and emotions."}
+> {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry.", "Completion":""Evocative poetry that beautifully captured various themes and emotions."}
 
 ## 👙 Vacation 
 
 🗣️ **Tour Guide**
 
-> {"Role":"Virtual Tour Guide", "Task":"Guide virtual tours of 'Tourist Destination' with historical insights.", "Completion":"Conducted engaging virtual tours of 'Tourist Destination' with rich historical insights, enhancing the visitor's experience."}
+> {"Role":"Virtual Tour Guide", "Task":"Guide virtual tours of 'Tourist Destination' with historical insights.", "Completion":"Conducted engaging virtual tours with rich historical insights, enhancing the visitor's experience."}
