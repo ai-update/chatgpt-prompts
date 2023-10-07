@@ -4,6 +4,14 @@
 
 ©️ Prompts made by [Cas van Vliet](https://casvanvliet.substack.com).
 
+## Instructions
+
+🤖 Using ChatGPT-3.5 Prompts
+
+1. **Pick Your Task:** Choose a category that matches your task, like DIY, email writing, or coding.
+
+2. **Customize Prompts:** Replace the 'placeholders' in the prompts with your specific details.
+
 ## Table of Contents
 
 - [🧑‍🔧 DIY Template](#diy-template)
