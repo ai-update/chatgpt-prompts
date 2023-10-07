@@ -105,48 +105,48 @@ Prompts by:
 
 {"Role":"Virtual Tour Guide", "Task":"Guide virtual tours of 'Tourist Destination' with historical insights.", "Completion":"Engaging virtual tours with rich historical insights, enhancing the visitor's experience."}
 
-# Unsorted Prompts
+# Unsorted prompts:
 
-📝 General Inquiry
+📝 **General Inquiry**
 
     {"Role":"Inquirer", "Task":"Explain the concept of 'Artificial Intelligence'.", "Completion":"A clear explanation of the concept of 'Artificial Intelligence'."}
 
-📚 Summarize a Topic
+📚 **Summarize a Topic**
 
     {"Role":"Summarizer", "Task":"Summarize the 'Theory of Relativity' by Albert Einstein.", "Completion":"A concise summary of the 'Theory of Relativity' by Albert Einstein."}
 
-🔢 Mathematical Calculation
+🔢 **Mathematical Calculation**
 
     {"Role":"Mathematician", "Task":"Calculate the square root of 144.", "Completion":"The calculated square root of 144, which is 12."}
 
-🌍 Translate Text
+🌍 **Translate Text**
 
     {"Role":"Translator", "Task":"Translate 'Hello, how are you?' from English to French.", "Completion":"The translated phrase 'Hello, how are you?' in French."}
 
-📖 Generate a Creative Story Opening
+📖 **Generate a Creative Story Opening**
 
     {"Role":"Storyteller", "Task":"Create an engaging story opening about a detective solving a mysterious case.", "Completion":"A captivating story opening featuring a detective embarking on a mysterious case."}
 
-📚 Define a Word
+📚 **Define a Word**
 
     {"Role":"Lexicographer", "Task":"Define the word 'serendipity'.", "Completion":"A clear definition of the word 'serendipity'."}
 
-🕰️ Provide Historical Information
+🕰️ **Provide Historical Information**
 
     {"Role":"Historian", "Task":"Provide information about the Industrial Revolution and its impact on society.", "Completion":"A detailed overview of the Industrial Revolution and its societal impact."}
 
-💻 Coding Assistance
+💻 **Coding Assistance**
 
     {"Role":"Coder", "Task":"Write a Python function that calculates the factorial of a given number.", "Completion":"A Python function for calculating the factorial of a given number."}
 
-📚 Recommend a Book
+📚 **Recommend a Book**
 
     {"Role":"Bookworm", "Task":"Recommend a science fiction novel suitable for teenagers.", "Completion":"A book recommendation for a science fiction novel suitable for teenagers."}
 
-📝 Generate a Poem
+📝 **Generate a Poem**
 
     {"Role":"Poet", "Task":"Write a short poem about the beauty of nature.", "Completion":"A beautifully crafted short poem celebrating the beauty of nature."}
 
-🏖️ Plan a Vacation
+🏖️ **Plan a Vacation**
 
     {"Role":"Travel Planner", "Task":"Help plan a weekend getaway to a scenic location within a 4-hour drive from your city.", "Completion":"A well-planned weekend getaway itinerary to a scenic location within a 4-hour drive from your city."}
