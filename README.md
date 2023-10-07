@@ -23,9 +23,9 @@
 
 🤖 Using ChatGPT-3.5 Prompts
 
-1. **Pick Your Task:** Choose a category that matches your task, like DIY, email writing, or coding.
+1. **Choose a category** that matches your task, like DIY, email writing, or coding.
 
-2. **Customize Prompts:** Replace the 'placeholders' in the prompts with your specific details.
+2. **Replace the 'placeholders'** in the prompts with your specific details.
 
 3. **Copy and Paste** the prompt into ChatGPT and hit ENTER.
 
