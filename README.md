@@ -25,7 +25,7 @@ Prompts by:
 > {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
 # Prompts:
-## 👩🏻‍💻 General
+
 ## 👩‍💻 General
 
 📅 **Schedule Planner**
@@ -40,7 +40,7 @@ Prompts by:
 
 ✉️ **Email Drafter**
 
-   {"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
+    {"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
 
 📄 **Resume Builder**
 
