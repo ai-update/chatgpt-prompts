@@ -2,7 +2,7 @@
 
 A collection of prompts for the [_free version_ of ChatGPT](https://openai.com/chatgpt).
 
-©️ Prompts made by [Cas van Vliet](https://casvanvliet.substack.com).
+Made by [Cas van Vliet](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
