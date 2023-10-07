@@ -18,7 +18,6 @@ Prompts by:
 - [🗣️ Languages](#languages)
 - [📱 Social Media](#social-media)
 - [✍️ Writing](#writing)
-- [👙 Vacation](#vacation)
 
 ## 🧑‍🔧 DIY Template
 
@@ -94,10 +93,8 @@ Prompts by:
 
     {"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
 
-## ✍Writing
+## Writing
 
 ### ✒️ Poetry Writer
 
     {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry.", "Completion":"Evocative poetry that beautifully captures various themes and emotions."}
-
-## 🏖️ Vacation
