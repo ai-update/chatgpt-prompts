@@ -1,6 +1,6 @@
 # 🤖 ChatGPT-3.5 Prompts
 
-ℹ️ A collection of prompts for the [_free version_ of ChatGPT](https://openai.com/chatgpt)).
+ℹ️ A collection of prompts for the [_free version_ of ChatGPT](https://openai.com/chatgpt).
 
 ©️ Prompts made by [Cas van Vliet](https://casvanvliet.substack.com).
 
