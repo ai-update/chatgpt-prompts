@@ -1,10 +1,10 @@
-# ChatGPT-3.5 Prompts
+# 🤖 ChatGPT-3.5 Prompts
 
-🤖 A collection of prompts for the _free version_ of ChatGPT:
+ℹ️ A collection of prompts for the _free version_ of ChatGPT:
 
 🌐 [https://openai.com/chatgpt](https://openai.com/chatgpt)
 
-Prompts by:
+©️ Prompts made by:
 
 🌐 [https://casvanvliet.substack.com](https://casvanvliet.substack.com)
 
