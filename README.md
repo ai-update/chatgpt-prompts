@@ -1,4 +1,4 @@
-# 🤖 ChatGPT-3.5 Prompts
+# ChatGPT-3.5 Prompts
 
 ℹ️ A collection of prompts for the [_free version_ of ChatGPT](https://openai.com/chatgpt).
 
@@ -15,11 +15,11 @@
 - [📱 Social Media](#social-media)
 - [✍️ Writing](#writing)
 
-## 🧑‍🔧 DIY Template
+## DIY Template
 
     {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
-## Instructions
+### Instructions
 
 🤖 Using ChatGPT-3.5 Prompts
 
