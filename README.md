@@ -15,6 +15,10 @@
 - [📱 Social Media](#social-media)
 - [✍️ Writing](#writing)
 
+## 🧑‍🔧 DIY Template
+
+    {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
+
 ## Instructions
 
 🤖 Using ChatGPT-3.5 Prompts
@@ -24,10 +28,6 @@
 2. **Customize Prompts:** Replace the 'placeholders' in the prompts with your specific details.
 
 3. **Copy and Paste** the prompt into ChatGPT and hit ENTER.
-
-## 🧑‍🔧 DIY Template
-
-    {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
 # Prompts:
 
