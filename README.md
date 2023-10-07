@@ -58,7 +58,7 @@ Prompts by:
 
 ### 📊 Data Analyst
 
-{"Role":"Data Analyst", "Task":"Analyze data: 'your_data_source' to derive insights and trends.", "Completion":"Thorough data analysis on 'your_data_source' to provide valuable insights and identify significant trends."}
+    {"Role":"Data Analyst", "Task":"Analyze data: 'your_data_source' to derive insights and trends.", "Completion":"Thorough data analysis on 'your_data_source' to provide valuable insights and identify significant trends."}
 
 ### 🔬 Research Assistant
 
