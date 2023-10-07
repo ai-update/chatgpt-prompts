@@ -23,11 +23,11 @@ Made by [Cas van Vliet](https://casvanvliet.substack.com).
 
 🤖 Using ChatGPT-3.5 Prompts
 
-1. **Choose a category** that matches your task, like DIY, email writing, or coding.
+1. _**Choose a category** that matches your task, like DIY, email writing, or coding._
 
-2. **Replace the 'placeholders'** in the prompts with your specific details.
+2. _**Replace the 'placeholders'** in the prompts with your specific details._
 
-3. **Copy and Paste** the prompt into ChatGPT and hit ENTER.
+3. _**Copy and Paste** the prompt into ChatGPT and hit ENTER._
 
 # Prompts:
 
