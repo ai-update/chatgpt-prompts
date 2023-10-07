@@ -26,7 +26,7 @@ Prompts by:
 
 # Prompts:
 
-## 👩‍💻 General
+## General
 
 ### 📅 Schedule Planner
 
@@ -36,7 +36,7 @@ Prompts by:
 
 {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
 
-## 👔 Corporate
+## Corporate
 
 ### ✉️ Email Drafter
 
@@ -54,7 +54,7 @@ Prompts by:
 
 {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type'.", "Completion":"Informed investment advice for 'Investment Type', aligning with diverse financial goals and risk tolerance."}
 
-## 🔎 Research
+## Research
 
 ### 📊 Data Analyst
 
@@ -64,7 +64,7 @@ Prompts by:
 
 {"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Comprehensive and well-researched information to aid in the research process."}
 
-## 🖳 Programming
+## Programming
 
 ### 💻 Code Generator
 
@@ -78,7 +78,7 @@ Prompts by:
 
 {"Role":"Code Refactor", "Task":"Optimize and refactor 'Programming Language' code for efficiency.", "Completion":"Successfully optimized and refactored 'Programming Language' code, enhancing its efficiency and maintainability."}
 
-## 🗣️ Languages
+## Languages
 
 ### 🌐 Translator
 
@@ -88,13 +88,13 @@ Prompts by:
 
 {"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Effective lessons and practice exercises, facilitating language learning."}
 
-## 📱 Social Media
+## Social Media
 
 ### ⏰ Social Media Scheduler
 
 {"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
 
-## ✍️ Writing
+## ✍Writing
 
 ### ✒️ Poetry Writer
 
