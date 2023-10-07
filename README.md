@@ -12,6 +12,8 @@
 
 2. **Customize Prompts:** Replace the 'placeholders' in the prompts with your specific details.
 
+3. **Copy and Paste** the prompt into ChatGPT and hit ENTER.
+
 ## Table of Contents
 
 - [🧑‍🔧 DIY Template](#diy-template)
