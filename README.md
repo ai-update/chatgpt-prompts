@@ -15,7 +15,7 @@ Made by [Cas van Vliet](https://casvanvliet.substack.com).
 - [📱 Social Media](#social-media)
 - [✍️ Writing](#writing)
 
-## DIY Template
+### DIY Template
 
     {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
