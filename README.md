@@ -14,7 +14,7 @@ Made by [Cas van Vliet](https://casvanvliet.substack.com).
 - [🗣️ Languages](#languages)
 - [📱 Social Media](#social-media)
 - [✍️ Writing](#writing)
-- [Unsorted](#unsorted:)
+- [Unsorted](#unsorted)
 
 ### DIY Template
 
