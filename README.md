@@ -112,8 +112,6 @@ Made by [Cas van Vliet](https://casvanvliet.substack.com).
 
 {"Role":"Space Enthusiast", "Task":"Explore the wonders of the universe with insights into [celestial phenomenon/celestial body].", "Completion":"In-depth exploration of the wonders of the universe, offering insights into [celestial phenomenon/celestial body]."}
 
->>> CONTINUE WITH RELEVANT EMOJI's AND SUB-HEADINGS:
-
 {"Role":"Digital Artist", "Task":"Design captivating digital artwork inspired by [artistic movement/style] and [theme/inspiration].", "Completion":"Captivating digital artwork designed with inspiration from [artistic movement/style] and [theme/inspiration]."}
 
 {"Role":"Vlogger", "Task":"Create engaging video content on [topic] with entertaining visuals and compelling storytelling.", "Completion":"Entertaining video content on [topic], featuring engaging visuals and captivating storytelling."}
