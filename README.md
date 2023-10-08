@@ -16,7 +16,7 @@
 - [🗣️ Languages](#languages)
 - [📱 Social Media](#social-media)
 - [✍️ Writing](#writing)
-- [Unsorted](#unsorted)
+- [❓ Unsorted](#unsorted)
 
 ### DIY Template
 
@@ -108,46 +108,46 @@
 
 # Unsorted:
 
- {"Role":"Science Communicator", "Task":"Craft an engaging explanation of [complex scientific concept] for a general audience.", "Completion":"An engaging explanation of [complex scientific concept] tailored for a general audience, making science accessible and exciting."}
+     {"Role":"Science Communicator", "Task":"Craft an engaging explanation of [complex scientific concept] for a general audience.", "Completion":"An engaging explanation of [complex scientific concept] tailored for a general audience, making science accessible and exciting."}
 
-{"Role":"Virtual Reality Developer", "Task":"Create an immersive VR experience centered around [theme] using [VR platform/technology].", "Completion":"An immersive VR experience featuring [theme] and built using [VR platform/technology], ready for testing and deployment."}
+    {"Role":"Virtual Reality Developer", "Task":"Create an immersive VR experience centered around [theme] using [VR platform/technology].", "Completion":"An immersive VR experience featuring [theme] and built using [VR platform/technology], ready for testing and deployment."}
 
-{"Role":"Space Enthusiast", "Task":"Explore the wonders of the universe with insights into [celestial phenomenon/celestial body].", "Completion":"In-depth exploration of the wonders of the universe, offering insights into [celestial phenomenon/celestial body]."}
+    {"Role":"Space Enthusiast", "Task":"Explore the wonders of the universe with insights into [celestial phenomenon/celestial body].", "Completion":"In-depth exploration of the wonders of the universe, offering insights into [celestial phenomenon/celestial body]."}
 
-{"Role":"Digital Artist", "Task":"Design captivating digital artwork inspired by [artistic movement/style] and [theme/inspiration].", "Completion":"Captivating digital artwork designed with inspiration from [artistic movement/style] and [theme/inspiration]."}
+    {"Role":"Digital Artist", "Task":"Design captivating digital artwork inspired by [artistic movement/style] and [theme/inspiration].", "Completion":"Captivating digital artwork designed with inspiration from [artistic movement/style] and [theme/inspiration]."}
 
-{"Role":"Vlogger", "Task":"Create engaging video content on [topic] with entertaining visuals and compelling storytelling.", "Completion":"Entertaining video content on [topic], featuring engaging visuals and captivating storytelling."}
+    {"Role":"Vlogger", "Task":"Create engaging video content on [topic] with entertaining visuals and compelling storytelling.", "Completion":"Entertaining video content on [topic], featuring engaging visuals and captivating storytelling."}
 
-{"Role":"Sustainability Advocate", "Task":"Promote eco-friendly practices and sustainable living tips for [audience/occasion].", "Completion":"Promotion of eco-friendly practices and sustainable living tips tailored for [audience/occasion]."}
+    {"Role":"Sustainability Advocate", "Task":"Promote eco-friendly practices and sustainable living tips for [audience/occasion].", "Completion":"Promotion of eco-friendly practices and sustainable living tips tailored for [audience/occasion]."}
 
-{"Role":"Cybersecurity Expert", "Task":"Provide recommendations for safeguarding your [online presence/organization] against cyber threats.", "Completion":"Expert recommendations for enhancing the security of your [online presence/organization] and protecting against cyber threats."}
+    {"Role":"Cybersecurity Expert", "Task":"Provide recommendations for safeguarding your [online presence/organization] against cyber threats.", "Completion":"Expert recommendations for enhancing the security of your [online presence/organization] and protecting against cyber threats."}
 
-{"Role":"UX Designer", "Task":"Design a user-friendly [app/website] interface with a focus on [user persona] for [specific purpose].", "Completion":"A user-friendly [app/website] interface designed with a focus on [user persona] to serve [specific purpose]."}
+    {"Role":"UX Designer", "Task":"Design a user-friendly [app/website] interface with a focus on [user persona] for [specific purpose].", "Completion":"A user-friendly [app/website] interface designed with a focus on [user persona] to serve [specific purpose]."}
 
-{"Role":"Mental Health Advocate", "Task":"Raise awareness about [mental health issue] and share resources for mental well-being.", "Completion":"Awareness-raising efforts and resource sharing to address [mental health issue] and promote mental well-being."}
+    {"Role":"Mental Health Advocate", "Task":"Raise awareness about [mental health issue] and share resources for mental well-being.", "Completion":"Awareness-raising efforts and resource sharing to address [mental health issue] and promote mental well-being."}
 
-{"Role":"Travel Photographer", "Task":"Capture stunning images of [destination] that showcase its beauty and cultural richness.", "Completion":"Breathtaking images of [destination] highlighting its natural beauty and cultural richness."}
+    {"Role":"Travel Photographer", "Task":"Capture stunning images of [destination] that showcase its beauty and cultural richness.", "Completion":"Breathtaking images of [destination] highlighting its natural beauty and cultural richness."}
 
-{"Role":"Food Critic", "Task":"Review [cuisine type] restaurants in [city] and provide honest assessments of their dishes and ambiance.", "Completion":"Detailed reviews of [cuisine type] restaurants in [city], offering honest assessments of their dishes and ambiance."}
+    {"Role":"Food Critic", "Task":"Review [cuisine type] restaurants in [city] and provide honest assessments of their dishes and ambiance.", "Completion":"Detailed reviews of [cuisine type] restaurants in [city], offering honest assessments of their dishes and ambiance."}
 
-{"Role":"Environmental Scientist", "Task":"Conduct field research on [ecosystem/region] and analyze its ecological health and conservation needs.", "Completion":"Field research findings on [ecosystem/region], including an analysis of its ecological health and conservation requirements."}
+    {"Role":"Environmental Scientist", "Task":"Conduct field research on [ecosystem/region] and analyze its ecological health and conservation needs.", "Completion":"Field research findings on [ecosystem/region], including an analysis of its ecological health and conservation requirements."}
 
-{"Role":"Health and Wellness Coach", "Task":"Guide clients in adopting a holistic approach to health, addressing physical, mental, and emotional well-being.", "Completion":"Holistic health coaching, addressing physical, mental, and emotional well-being to support clients in achieving optimal health."}
+    {"Role":"Health and Wellness Coach", "Task":"Guide clients in adopting a holistic approach to health, addressing physical, mental, and emotional well-being.", "Completion":"Holistic health coaching, addressing physical, mental, and emotional well-being to support clients in achieving optimal health."}
 
-{"Role":"Professional Organizer", "Task":"Offer strategies for decluttering and organizing [specific area/room] to create a functional and tidy space.", "Completion":"Effective decluttering and organizing strategies for [specific area/room], resulting in a functional and organized space."}
+    {"Role":"Professional Organizer", "Task":"Offer strategies for decluttering and organizing [specific area/room] to create a functional and tidy space.", "Completion":"Effective decluttering and organizing strategies for [specific area/room], resulting in a functional and organized space."}
 
-{"Role":"Virtual Assistant", "Task":"Provide administrative support by managing [specific tasks/areas] for your [client/employer].", "Completion":"Efficient administrative support provided by managing [specific tasks/areas] for your [client/employer]."}
+    {"Role":"Virtual Assistant", "Task":"Provide administrative support by managing [specific tasks/areas] for your [client/employer].", "Completion":"Efficient administrative support provided by managing [specific tasks/areas] for your [client/employer]."}
 
-{"Role":"Business Analyst", "Task":"Analyze market trends and data to make informed recommendations for [industry/sector] businesses.", "Completion":"In-depth market analysis and data-driven recommendations for businesses in the [industry/sector] sector."}
+    {"Role":"Business Analyst", "Task":"Analyze market trends and data to make informed recommendations for [industry/sector] businesses.", "Completion":"In-depth market analysis and data-driven recommendations for businesses in the [industry/sector] sector."}
 
-{"Role":"Content Creator", "Task":"Generate fresh and engaging content ideas for your [blog/channel] that resonate with your audience.", "Completion":"Inspiring and audience-centric content ideas for your [blog/channel], designed to captivate and resonate with your viewers/readers."}
+    {"Role":"Content Creator", "Task":"Generate fresh and engaging content ideas for your [blog/channel] that resonate with your audience.", "Completion":"Inspiring and audience-centric content ideas for your [blog/channel], designed to captivate and resonate with your viewers/readers."}
 
-{"Role":"SEO Specialist", "Task":"Optimize website content and implement SEO strategies to improve [website's goal, e.g., traffic or rankings].", "Completion":"Website content optimized and effective SEO strategies implemented to enhance [website's goal, e.g., traffic or rankings]."}
+    {"Role":"SEO Specialist", "Task":"Optimize website content and implement SEO strategies to improve [website's goal, e.g., traffic or rankings].", "Completion":"Website content optimized and effective SEO strategies implemented to enhance [website's goal, e.g., traffic or rankings]."}
 
-{"Role":"AI Developer", "Task":"Create an AI-powered [application/algorithm] for [specific purpose] using [AI framework/technology].", "Completion":"An AI-powered [application/algorithm] developed for [specific purpose] using [AI framework/technology], ready for testing and deployment."}
+    {"Role":"AI Developer", "Task":"Create an AI-powered [application/algorithm] for [specific purpose] using [AI framework/technology].", "Completion":"An AI-powered [application/algorithm] developed for [specific purpose] using [AI framework/technology], ready for testing and deployment."}
 
-{"Role":"Art Enthusiast", "Task":"Discover techniques for [painting/illustration/sculpture] in the style of '[art movement]' art.", "Completion":"Techniques and tips for creating [painting/illustration/sculpture] inspired by the '[art movement]' art movement."}
+    {"Role":"Art Enthusiast", "Task":"Discover techniques for [painting/illustration/sculpture] in the style of '[art movement]' art.", "Completion":"Techniques and tips for creating [painting/illustration/sculpture] inspired by the '[art movement]' art movement."}
 
-{"Role":"Language Learner", "Task":"Learn effective strategies for mastering [language] grammar and pronunciation.", "Completion":"Effective strategies and exercises for mastering [language] grammar and pronunciation, enhancing your language skills."}
+    {"Role":"Language Learner", "Task":"Learn effective strategies for mastering [language] grammar and pronunciation.", "Completion":"Effective strategies and exercises for mastering [language] grammar and pronunciation, enhancing your language skills."}
 
-{"Role":"Translator", "Task":"Translate '[source language]' texts into '[target language]' with accuracy and cultural sensitivity.", "Completion":"Accurate and culturally sensitive translations of '[source language]' texts into '[target language]'."}
+    {"Role":"Translator", "Task":"Translate '[source language]' texts into '[target language]' with accuracy and cultural sensitivity.", "Completion":"Accurate and culturally sensitive translations of '[source language]' texts into '[target language]'."}
