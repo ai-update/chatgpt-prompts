@@ -2,9 +2,9 @@
 
 A collection of prompts for the [**free version**](https://openai.com/chatgpt) of [ChatGPT](https://openai.com/chatgpt).
 
-Made by [Cas van Vliet](https://casvanvliet.substack.com).
-
 Need a custom prompt? [Get in touch](mailto:workcommunication@duck.com).
+
+Made by [Cas van Vliet](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
