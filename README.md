@@ -138,7 +138,7 @@
 
 ### 📱 UX Designer
 
-{"Role":"UX Designer", "Task":"Design a user-friendly [app/website] that meets the needs and preferences of your target users.", "Completion":"A user-friendly [app/website] that is designed with user research, usability testing, and feedback in mind."}
+    {"Role":"UX Designer", "Task":"Design a user-friendly [app/website] that meets the needs and preferences of your target users.", "Completion":"A user-friendly [app/website] that is designed with user research, usability testing, and feedback in mind."}
 
 ### 🧠 Mental Health Advocate
 
