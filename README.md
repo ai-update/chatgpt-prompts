@@ -4,7 +4,7 @@ A collection of prompts for the [**free version**](https://openai.com/chatgpt) o
 
 Made by [Cas van Vliet](https://casvanvliet.substack.com).
 
-Need a custom prompt? [Get in touch](sendmailto:workcommunication@duck.com).
+Need a custom prompt? [Get in touch](mailto:workcommunication@duck.com).
 
 ## Table of Contents
 
