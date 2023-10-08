@@ -96,7 +96,7 @@ Made by [Cas van Vliet](https://casvanvliet.substack.com).
 ### ⏰ Social Media Scheduler
 
     {"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
-
+ 
 ## Writing
 
 ### ✒️ Poetry Writer
