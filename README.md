@@ -34,7 +34,7 @@
 
     {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
-## More (custom) Prompts
+## More Prompts
 
 ➕ [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
 > **$4.99**
