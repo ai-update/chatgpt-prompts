@@ -1,4 +1,4 @@
-;# ChatGPT-3.5 Prompts
+# ChatGPT-3.5 Prompts
 
 ## Information
 
