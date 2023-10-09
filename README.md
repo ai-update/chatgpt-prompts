@@ -14,6 +14,7 @@
   > [🌐 Marketing](#marketing)
   >> [💼 Career Development](#career-development)
 - [🔎 Research](#research)
+- [Education](#education)
 - [💻 Programming](#programming)
 - [💬 Languages](#languages)
 - [📱 Social Media](#social-media)
@@ -146,6 +147,44 @@
 ### 🔬 Research Assistant
 
     {"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Comprehensive and well-researched information to aid in the research process."}
+
+## Education
+
+### 🎓 Educator
+
+    {"Role":"Educator", "Task":"Design a project-based learning activity for teaching [subject] to high school students.", "Completion":"A project-based learning activity plan for engaging high school students in [subject] education."}
+
+### 🎓 Student
+
+    {"Role":"Student", "Task":"Help me understand the concept of [complex topic] with a simple analogy.", "Completion":"A straightforward analogy to explain the concept of [complex topic], making it easier to grasp."}
+
+### 🎓 Parent
+
+    {"Role":"Parent", "Task":"Recommend educational games and activities for preschoolers to enhance cognitive development.", "Completion":"Fun and educational games and activities to stimulate cognitive development in preschoolers."}
+
+### 🎓 Language Teacher
+
+    {"Role":"Language Teacher", "Task":"Provide tips for effectively teaching grammar and vocabulary to beginners in [language].", "Completion":"Useful tips and techniques for teaching grammar and vocabulary to beginners in [language]."}
+
+### 🎓 College Applicant
+
+    {"Role":"College Applicant", "Task":"Help me write a standout personal statement for my college application.", "Completion":"A compelling personal statement for your college application that sets you apart from other applicants."}
+
+### 🎓 Homework Helper
+
+    {"Role":"Homework Helper", "Task":"Explain the steps for solving equations in [math subject].", "Completion":"Step-by-step instructions for solving equations in [math subject], simplifying the learning process."}
+
+### 🎓 History Buff
+
+    {"Role":"History Buff", "Task":"Summarize the key events and figures of a specific historical period.", "Completion":"A concise summary of the major events and notable figures from the specified historical period."}
+
+### 🎓 Study Group Coordinator
+
+    {"Role":"Study Group Coordinator", "Task":"Suggest effective strategies for organizing and running productive study group sessions.", "Completion":"Strategies and tips for coordinating productive study group sessions to enhance learning."}
+
+### 🎓 Special Education Teacher
+
+    {"Role":"Special Education Teacher", "Task":"Provide resources and techniques for accommodating diverse learning needs in the classroom.", "Completion":"Resources and techniques for creating an inclusive classroom environment and accommodating diverse learning needs."}
 
 ## Programming
 
