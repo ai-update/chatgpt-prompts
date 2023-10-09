@@ -19,6 +19,7 @@
 - [📱 Social Media](#social-media)
 - [✍️ Writing](#writing)
 - [🏋️‍♂️ Fitness and Health](#fitness-health)
+- [🏠 Home Improvement](#home-improvement)
 
 ### DIY Template
 
