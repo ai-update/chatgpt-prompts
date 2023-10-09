@@ -81,8 +81,6 @@
     
 ### 🌐 **Social Media Manager**
 
-    {"Role":"Social Media Manager", "Task":"Provide hashtag recommendations for increasing reach on a Twitter post.", "Completion":"Effective hashtag recommendations to expand the reach of your Twitter post."}
-    
     {"Role":"Small Business Owner", "Task":"Recommend strategies for enhancing social media presence and engagement.", "Completion":"Proven strategies for boosting social media presence and engagement to grow your small business online."}
     
 ### 🌐 **Online Advertiser**
