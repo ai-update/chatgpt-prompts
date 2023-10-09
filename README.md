@@ -11,7 +11,7 @@
 - [🧑‍🔧 DIY Template](#diy-template)
 - [👩🏻‍💻 General](#general)
 - [👔 Corporate](#corporate)
-  > [🌐 Marketing](#marketing)
+  >> [🌐 Marketing](#marketing)
   >> [💼 Career Development](#career-development)
 - [🔎 Research](#research)
 - [💻 Programming](#programming)
