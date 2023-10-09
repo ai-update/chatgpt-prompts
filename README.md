@@ -36,13 +36,13 @@
 
 ## More (custom) Prompts
 
-➕ [**Buy 1000 Basic Prompts**](mailto:workcommunication@duck.com) 
+➕ [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
 > **$4.99**
 
-➕ [**Buy 100 Advanced Prompts**](mailto:workcommunication@duck.com) 
+➕ [**100 Advanced Prompts**](mailto:workcommunication@duck.com) 
 > **$4.99**
 
-🛠️ [**Order a Custom Prompt**](mailto:workcommunication@duck.com) 
+🛠️ [**1 Custom Prompt**](mailto:workcommunication@duck.com) 
 > **$49.99**
 
 # Prompts:
