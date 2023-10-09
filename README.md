@@ -34,10 +34,10 @@
 
 ## More Prompts
 
-### ➕ [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
+### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
 > 💲 **$4.99**
 
-### ➕ [**100 Tailored Prompts**](mailto:workcommunication@duck.com) 
+### 📝 [**100 Tailored Prompts**](mailto:workcommunication@duck.com) 
 > 💲 **$4.99**
 
 ### 🛠️ [**1 Custom Prompt**](mailto:workcommunication@duck.com) 
