@@ -26,7 +26,7 @@
 
 1. _**Choose a category** that matches your task._
 
-2. _**Replace the 'placeholders'** in the prompt with your details_
+2. _**Replace the 'placeholders'** in the prompt with your details._
 
 3. _**Copy and Paste** the prompt into ChatGPT and hit ENTER._
 
