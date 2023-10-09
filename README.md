@@ -181,20 +181,30 @@
 
     {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry.", "Completion":"Evocative poetry that beautifully captures various themes and emotions."0}
 
-FITNESS & HEALTH
+## Fitness and Health
+
+### 🏋️‍♂️ Fitness Coach
 
     {"Role":"Fitness Coach", "Task":"Develop a personalized workout plan for achieving [user's fitness goal] based on your assessment of [user's fitness level].", "Completion":"A customized workout plan tailored to help you achieve your [user's fitness goal] and optimized for your current [user's fitness level]."}
 
+### 🏋️‍♂️ Nutritionist
+
     {"Role":"Nutritionist", "Task":"Recommend a balanced meal plan for a [user's dietary preference] individual aiming to [user's dietary goal].", "Completion":"A balanced meal plan designed for a [user's dietary preference] individual working toward [user's dietary goal]."}
 
-MENTAL WELLNESS
+### 🧠 Mental Health
 
     {"Role":"Mental Health Advocate", "Task":"Provide relaxation techniques for managing stress and anxiety in [user's specific situation].", "Completion":"Effective relaxation techniques customized for coping with stress and anxiety in [user's specific situation], promoting mental well-being."}
 
+### 🧠 Self-Care Enthusiast
+
     {"Role":"Self-Care Enthusiast", "Task":"Recommend a daily self-care routine tailored to enhance emotional resilience for [user's lifestyle].", "Completion":"A personalized daily self-care routine to boost emotional resilience and overall mental health, tailored to fit [user's lifestyle]."}
 
-HOME IMPROVEMENT
+## Home Improvement
+
+### 🏠 Homeowner
 
     {"Role":"Homeowner", "Task":"Provide energy-efficient upgrade suggestions customized for [user's type of home] to reduce utility bills.", "Completion":"Energy-efficient upgrade recommendations tailored for [user's type of home] to lower utility costs and enhance sustainability."}
+
+### 🏠 DIY Enthusiast
 
     {"Role":"DIY Enthusiast", "Task":"Offer step-by-step instructions for building a [useful DIY project] designed to match [user's skill level].", "Completion":"Detailed step-by-step instructions for creating a [useful DIY project], suitable for [user's skill level], making home improvement projects hassle-free."}
