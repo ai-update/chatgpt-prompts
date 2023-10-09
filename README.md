@@ -11,7 +11,8 @@
 - [🧑‍🔧 DIY Template](#diy-template)
 - [👩🏻‍💻 General](#general)
 - [👔 Corporate](#corporate)
-  > [Marketing](#marketing)
+  > [🌐 Marketing](#marketing)
+  > [💼 Career Development](#career-development)
 - [🔎 Research](#research)
 - [💻 Programming](#programming)
 - [💬 Languages](#languages)
@@ -120,11 +121,7 @@
 
     {"Role":"Manager", "Task":"Provide advice on fostering a positive work culture and team engagement.", "Completion":"Strategies and advice for creating a positive work culture and promoting team engagement as a manager."}
 
-### 💼 
-
-    {"Role":"Remote Worker", "Task":"Suggest effective time management techniques for staying productive while working remotely.", "Completion":"Time management techniques for maintaining high productivity while working remotely."}
-
-### 💼 
+### 💼 Career Coach
 
     {"Role":"Career Coach", "Task":"Recommend resources for assessing and aligning career goals with personal strengths.", "Completion":"Valuable resources for assessing and aligning career goals with personal strengths, facilitating career coaching."
 
