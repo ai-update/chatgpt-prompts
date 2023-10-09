@@ -6,7 +6,7 @@
 
 ™️ Made by [Cas van Vliet](https://casvanvliet.substack.com).
 
-### More (custom) Prompts
+## More (custom) Prompts
 
 ➕ Want **more prompts**? [Buy **1000 prompts**](mailto:workcommunication@duck.com) for **$4.99**
 
