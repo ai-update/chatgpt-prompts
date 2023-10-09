@@ -71,8 +71,6 @@
 
     {"Role":"Content Creator", "Task":"Create a social media content calendar for the next month with post ideas and captions.", "Completion":"A monthly social media content calendar featuring post ideas and captions for improved content planning."}
 
-    {"Role":"Content Creator", "Task":"Generate ideas for viral content in the [specific niche].", "Completion":"Creative content ideas tailored to the [specific niche] to help creators go viral and reach a wider audience."}
-
 ### 🌐 **SEO Specialist**
 
     {"Role":"SEO Specialist", "Task":"Suggest on-page SEO optimization tips for improving website search rankings.", "Completion":"On-page SEO optimization suggestions to boost website search rankings and visibility."}
@@ -97,11 +95,7 @@
     
 ### 🌐 **Digital Strategist**
 
-    {"Role":"Digital Strategist", "Task":"Generate ideas for interactive quizzes to engage website visitors.", "Completion":"Innovative ideas for interactive quizzes to captivate and engage website visitors."}
-
     {"Role":"Online Review Manager", "Task":"Recommend approaches for managing and responding to online reviews effectively.", "Completion":"Effective approaches for managing and responding to online reviews to maintain a positive online reputation."}
-
-    {"Role":"E-commerce Marketer", "Task":"Suggest strategies for reducing cart abandonment rates in an online store that sells [product].", "Completion":"Strategies to minimize cart abandonment rates and increase conversions on your e-commerce website."}
 
 ## Research
 
