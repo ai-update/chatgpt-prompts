@@ -14,7 +14,7 @@
   > [🌐 Marketing](#marketing)
   >> [💼 Career Development](#career-development)
 - [🔎 Research](#research)
-- [Education](#education)
+- [🎓 Education](#education)
 - [💻 Programming](#programming)
 - [💬 Languages](#languages)
 - [📱 Social Media](#social-media)
