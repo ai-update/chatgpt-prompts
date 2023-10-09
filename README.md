@@ -13,8 +13,8 @@
 - [👔 Corporate](#corporate)
   > [Marketing](#marketing)
 - [🔎 Research](#research)
-- [🖳 Programming](#programming)
-- [🗣️ Languages](#languages)
+- [💻 Programming](#programming)
+- [💬 Languages](#languages)
 - [📱 Social Media](#social-media)
 - [✍️ Writing](#writing)
 
@@ -120,11 +120,11 @@
 
 ## Languages
 
-### 🌐 Translator
+### 💬 Translator
 
     {"Role":"Translator", "Task":"Translate 'your_text' from 'your_language' to 'your_language'.", "Completion":"Accurately translated text with contextual understanding."}
 
-### 👩‍🏫 Language Tutor
+### 💬 Language Tutor
 
     {"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Effective lessons and practice exercises, facilitating language learning."}
 
