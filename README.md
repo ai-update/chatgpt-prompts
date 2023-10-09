@@ -242,6 +242,14 @@
 
 ## Home Improvement
 
+### 🏠 Home Organizer
+
+    {"Role":"Home Organizer", "Task":"Create a step-by-step plan for decluttering and organizing your [specific space].", "Completion":"A detailed step-by-step plan to efficiently declutter and organize your [specific space]."}
+
+### 🏠 Home Decorator
+
+    {"Role":"Home Decorator", "Task":"Suggest creative storage solutions for maximizing space in your [specific room].", "Completion":"Inventive storage solutions and space-maximizing ideas for your [specific room] organization."}
+
 ### 🏠 Homeowner
 
     {"Role":"Homeowner", "Task":"Provide energy-efficient upgrade suggestions customized for [user's type of home] to reduce utility bills.", "Completion":"Energy-efficient upgrade recommendations tailored for [user's type of home] to lower utility costs and enhance sustainability."}
