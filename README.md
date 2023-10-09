@@ -6,12 +6,6 @@
 
 ™️ Made by [Cas van Vliet](https://casvanvliet.substack.com).
 
-## More (custom) Prompts
-
-➕ Want **more prompts**? [Buy **1000 prompts**](mailto:workcommunication@duck.com) for **$4.99**
-
-🛠️ Need a **custom prompt?** [Get in touch](mailto:workcommunication@duck.com).
-
 ## Table of Contents
 
 - [🧑‍🔧 DIY Template](#diy-template)
@@ -39,6 +33,12 @@
 2. _**Replace the 'placeholders'** in the prompts with your specific details._
 
 3. _**Copy and Paste** the prompt into ChatGPT and hit ENTER._
+
+## More (custom) Prompts
+
+➕ Want **more prompts**? [Buy **1000 prompts**](mailto:workcommunication@duck.com) for **$4.99**
+
+🛠️ Need a **custom prompt?** [Get in touch](mailto:workcommunication@duck.com).
 
 # Prompts:
 
