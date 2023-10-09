@@ -18,6 +18,7 @@
 - [💬 Languages](#languages)
 - [📱 Social Media](#social-media)
 - [✍️ Writing](#writing)
+- [🏋️‍♂️ Fitness and Health](#fitness-health)
 
 ### DIY Template
 
