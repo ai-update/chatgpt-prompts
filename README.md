@@ -36,9 +36,9 @@
 
 ## More (custom) Prompts
 
-➕ [**Buy 1000 prompts**](mailto:workcommunication@duck.com) for **$4.99**
+➕ [**1000 prompts:**](mailto:workcommunication@duck.com) **$4.99**
 
-🛠️ [**Buy a custom promp?**](mailto:workcommunication@duck.com) for **49.99**
+🛠️ [**Custom promp:**](mailto:workcommunication@duck.com) **49.99**
 
 # Prompts:
 
