@@ -22,10 +22,6 @@
 - [🏋️‍♂️ Fitness and Health](#fitness-health)
 - [🏠 Home Improvement](#home-improvement)
 
-### DIY Template
-
-    {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
-
 ## Instructions
 
 1. _**Choose a category** that matches your task, like DIY, email writing, or coding._
@@ -34,7 +30,11 @@
 
 3. _**Copy and Paste** the prompt into ChatGPT and hit ENTER._
 
-### More (custom) Prompts
+## DIY Template
+
+    {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
+
+## More (custom) Prompts
 
 ➕ Want **more prompts**? [Buy **1000 prompts**](mailto:workcommunication@duck.com) for **$4.99**
 
