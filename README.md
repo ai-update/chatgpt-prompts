@@ -38,7 +38,7 @@
 
 ➕ [**1000 prompts:**](mailto:workcommunication@duck.com) **$4.99**
 
-🛠️ [**Custom promp:**](mailto:workcommunication@duck.com) **49.99**
+🛠️ [**Custom prompt:**](mailto:workcommunication@duck.com) **49.99**
 
 # Prompts:
 
