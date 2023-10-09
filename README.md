@@ -94,6 +94,40 @@
 
     {"Role":"Online Review Manager", "Task":"Recommend approaches for managing and responding to online reviews effectively.", "Completion":"Effective approaches for managing and responding to online reviews to maintain a positive online reputation."}
 
+### Career Development
+
+### 💼 Job Seeker
+
+    {"Role":"Job Seeker", "Task":"Help me craft an effective elevator pitch for networking events.", "Completion":"A concise and compelling elevator pitch to make a strong impression at networking events and job interviews."}
+
+### 💼 Career Changer"
+
+    {"Role":"Career Changer", "Task":"Provide guidance on transitioning into a new career field, including resume tips.", "Completion":"Strategies and resume tips for a successful transition into a new career field."}
+
+### 💼 Entrepreneur
+
+    {"Role":"Entrepreneur", "Task":"Suggest strategies for branding and marketing a startup on a limited budget.", "Completion":"Cost-effective branding and marketing strategies to promote a startup and attract customers."}
+
+### 💼 Job Interviewee
+
+    {"Role":"Job Interviewee", "Task":"Help me prepare for a competency-based interview for a [specific job position].", "Completion":"Comprehensive preparation for a competency-based interview for the [specific job position] with sample questions and answers."}
+
+### 💼 Freelancer
+
+    {"Role":"Freelancer", "Task":"Offer tips on pricing and negotiating contracts for freelance work.", "Completion":"Pricing strategies and negotiation tips for freelancers to secure profitable contracts."}
+
+### 💼 Manager
+
+    {"Role":"Manager", "Task":"Provide advice on fostering a positive work culture and team engagement.", "Completion":"Strategies and advice for creating a positive work culture and promoting team engagement as a manager."}
+
+### 💼 
+
+    {"Role":"Remote Worker", "Task":"Suggest effective time management techniques for staying productive while working remotely.", "Completion":"Time management techniques for maintaining high productivity while working remotely."}
+
+### 💼 
+
+    {"Role":"Career Coach", "Task":"Recommend resources for assessing and aligning career goals with personal strengths.", "Completion":"Valuable resources for assessing and aligning career goals with personal strengths, facilitating career coaching."
+
 ## Research
 
 ### 🔬 Data Analyst
