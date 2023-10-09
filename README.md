@@ -25,7 +25,11 @@
 1. ☑️ _**Choose** a prompt._
 2. ☑️ _**Replace** the [placeholders]._
 3. ☑️ _**Copy and Paste** the prompt._
-   
+
+## DIY Template
+
+    {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
+
 ## More Prompts
 ### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
 > 💲 **9.99**
@@ -35,10 +39,6 @@
 
 ### 🛠️ [**1 Custom Prompt**](mailto:workcommunication@duck.com) 
 > 💲 **19.99**
-
-## DIY Template
-
-    {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
 
 ## More Prompts
 
