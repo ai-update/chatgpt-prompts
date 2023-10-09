@@ -9,7 +9,7 @@
 ## Table of Contents
 
 - [🧑‍🔧 DIY Template](#diy-template)
-- [👩🏻‍💻 General](#general)
+- [📅 Planning](#planning)
 - [👔 Corporate](#corporate)
   > [🌐 Marketing](#marketing)
   >> [💼 Career Development](#career-development)
@@ -33,11 +33,21 @@
 
 # Prompts:
 
-## General
+## Planning
 
 ### 📅 Schedule Planner
 
     {"Role":"Schedule Planner", "Task":"Create a schedule for my daily activities.", "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
+
+### 📅 Event Organizer
+
+    {"Role":"Event Organizer", "Task":"Outline a detailed checklist for planning a successful [type of event] tailored to [user's specific preferences].", "Completion":"A meticulously planned checklist for organizing a memorable [type of event], tailored to match [user's specific preferences] and ensuring no detail is overlooked."}
+
+### 📅 Party Planner
+
+    {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
+
+## Food & Drinks
 
 ### 🍽️ Recipe Generator
 
@@ -169,4 +179,22 @@
 
 ### ✒️ Poetry Writer
 
-    {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry.", "Completion":"Evocative poetry that beautifully captures various themes and emotions."}
+    {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry.", "Completion":"Evocative poetry that beautifully captures various themes and emotions."0}
+
+FITNESS & HEALTH
+
+    {"Role":"Fitness Coach", "Task":"Develop a personalized workout plan for achieving [user's fitness goal] based on your assessment of [user's fitness level].", "Completion":"A customized workout plan tailored to help you achieve your [user's fitness goal] and optimized for your current [user's fitness level]."}
+
+    {"Role":"Nutritionist", "Task":"Recommend a balanced meal plan for a [user's dietary preference] individual aiming to [user's dietary goal].", "Completion":"A balanced meal plan designed for a [user's dietary preference] individual working toward [user's dietary goal]."}
+
+MENTAL WELLNESS
+
+    {"Role":"Mental Health Advocate", "Task":"Provide relaxation techniques for managing stress and anxiety in [user's specific situation].", "Completion":"Effective relaxation techniques customized for coping with stress and anxiety in [user's specific situation], promoting mental well-being."}
+
+    {"Role":"Self-Care Enthusiast", "Task":"Recommend a daily self-care routine tailored to enhance emotional resilience for [user's lifestyle].", "Completion":"A personalized daily self-care routine to boost emotional resilience and overall mental health, tailored to fit [user's lifestyle]."}
+
+HOME IMPROVEMENT
+
+    {"Role":"Homeowner", "Task":"Provide energy-efficient upgrade suggestions customized for [user's type of home] to reduce utility bills.", "Completion":"Energy-efficient upgrade recommendations tailored for [user's type of home] to lower utility costs and enhance sustainability."}
+
+    {"Role":"DIY Enthusiast", "Task":"Offer step-by-step instructions for building a [useful DIY project] designed to match [user's skill level].", "Completion":"Detailed step-by-step instructions for creating a [useful DIY project], suitable for [user's skill level], making home improvement projects hassle-free."}
