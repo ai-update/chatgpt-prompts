@@ -2,6 +2,8 @@
 
 ℹ️ A collection of prompts for the [**free version**](https://openai.com/chatgpt) of [ChatGPT](https://openai.com/chatgpt).
 
+➕ Want more prompts? [Buy 1000 prompts](mailto:workcommunication@duck.com)for $4.99.
+
 🛠️ Need a custom prompt? [Get in touch](mailto:workcommunication@duck.com).
 
 ™️ Made by [Cas van Vliet](https://casvanvliet.substack.com).
