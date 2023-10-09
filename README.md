@@ -12,7 +12,7 @@
 - [👩🏻‍💻 General](#general)
 - [👔 Corporate](#corporate)
   > [🌐 Marketing](#marketing)
-  > [💼 Career Development](#career-development)
+  >> [💼 Career Development](#career-development)
 - [🔎 Research](#research)
 - [💻 Programming](#programming)
 - [💬 Languages](#languages)
