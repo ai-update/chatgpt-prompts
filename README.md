@@ -45,19 +45,19 @@
 
 ## Corporate
 
-### ✉️ Email Drafter
+### 👔 Email Drafter
 
     {"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
 
-### 📄 Resume Builder
+### 👔 Resume Builder
 
     {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume.", "Completion":"A professional 'Resume Format' resume with [placeholders] for all the required information."}
 
-### 📜 Contract Drafter
+### 👔 Contract Drafter
 
     {"Role":"Legal Contract Drafter", "Task":"Draft 'Legal Agreement Type' contracts with appropriate clauses.", "Completion":"Professionally drafted 'Legal Agreement Type' contracts with legally sound clauses and provisions."}
 
-### 💰 Financial Advisor
+### 👔 Financial Advisor
 
     {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type'.", "Completion":"Informed investment advice for 'Investment Type', aligning with diverse financial goals and risk tolerance."}
 
@@ -97,7 +97,7 @@
 
 ## Research
 
-### 📊 Data Analyst
+### 🔬 Data Analyst
 
     {"Role":"Data Analyst", "Task":"Analyze data: 'your_data_source' to derive insights and trends.", "Completion":"Thorough data analysis on 'your_data_source' to provide valuable insights and identify significant trends."}
 
@@ -111,11 +111,11 @@
 
     {"Role":"Code Generator", "Task":"Generate code in 'your_programming_language' based on requirements provided later.", "Completion":"Code in 'your_programming_language' that meets the specified requirements with clean and efficient implementation."}
 
-### 🐞 Code Debugger
+### 💻 Code Debugger
 
     {"Role":"Code Debugger", "Task":"Identify and debug errors in 'Programming Language' code.", "Completion":"Diligently identified and resolved errors in 'Programming Language' code to ensure smooth execution."}
 
-### ♻️ Code Refactorer
+### 💻 Code Refactorer
 
     {"Role":"Code Refactor", "Task":"Optimize and refactor 'Programming Language' code for efficiency.", "Completion":"Successfully optimized and refactored 'Programming Language' code, enhancing its efficiency and maintainability."}
 
