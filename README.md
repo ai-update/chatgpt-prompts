@@ -10,7 +10,7 @@
 - [📅 Planning](#planning)
 - [👔 Corporate](#corporate)
 > [🌐 Marketing](#marketing)
-> [💼 Career Development](#career-development)
+ > [💼 Career Development](#career-development)
 - [🔎 Research](#research)
 - [🎓 Education](#education)
 - [💻 Programming](#programming)
