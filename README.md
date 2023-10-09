@@ -17,7 +17,6 @@
 - [🗣️ Languages](#languages)
 - [📱 Social Media](#social-media)
 - [✍️ Writing](#writing)
-- [❓ Unsorted](#unsorted)
 
 ### DIY Template
 
