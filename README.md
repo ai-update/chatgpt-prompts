@@ -191,7 +191,7 @@
 
     {"Role":"Nutritionist", "Task":"Recommend a balanced meal plan for a [user's dietary preference] individual aiming to [user's dietary goal].", "Completion":"A balanced meal plan designed for a [user's dietary preference] individual working toward [user's dietary goal]."}
 
-### 🧠 Mental Health
+### 🧠 Mental Health Advocate
 
     {"Role":"Mental Health Advocate", "Task":"Provide relaxation techniques for managing stress and anxiety in [user's specific situation].", "Completion":"Effective relaxation techniques customized for coping with stress and anxiety in [user's specific situation], promoting mental well-being."}
 
