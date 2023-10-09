@@ -1,6 +1,6 @@
-# ChatGPT-3.5 Prompts
+;# ChatGPT-3.5 Prompts
 
-### Information
+## Information
 
 ℹ️ A collection of prompts for the [**free version**](https://openai.com/chatgpt) of [ChatGPT](https://openai.com/chatgpt).
 
