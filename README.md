@@ -9,7 +9,7 @@
 - [🧑‍🔧 DIY Template](#diy-template)
 - [📅 Planning](#planning)
 - [👔 Corporate](#corporate)
-  > [🌐 Marketing](#marketing)
+ > [🌐 Marketing](#marketing)
  > [💼 Career Development](#career-development)
 - [🔎 Research](#research)
 - [🎓 Education](#education)
