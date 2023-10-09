@@ -20,13 +20,21 @@
 - [🏋️‍♂️ Fitness and Health](#fitness-health)
 - [🏠 Home Improvement](#home-improvement)
 
-## Instructions
+## Instructions:
 
-1. _**Choose a category** that matches your task._
+1. ☑️ _**Choose** a prompt._
+2. ☑️ _**Replace** the [placeholders]._
+3. ☑️ _**Copy and Paste** the prompt._
+   
+## More Prompts
+### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
+> 💲 **9.99**
 
-2. _**Replace the 'placeholders'** in the prompt with your details._
+### 📝 [**100 Tailored Prompts**](mailto:workcommunication@duck.com) 
+> 💲 **$9.99**
 
-3. _**Copy and Paste** the prompt into ChatGPT and hit ENTER._
+### 🛠️ [**1 Custom Prompt**](mailto:workcommunication@duck.com) 
+> 💲 **19.99**
 
 ## DIY Template
 
