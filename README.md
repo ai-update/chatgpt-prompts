@@ -255,81 +255,79 @@
 
 ### 🏠 Gardening Enthusiast
 
-less
-
-{"Role":"Gardening Enthusiast", "Task":"Provide a guide for planning and maintaining a [specific type of garden] in your [climate zone].", "Completion":"A comprehensive guide for creating and caring for a beautiful [specific type of garden] that thrives in your [climate zone]."}
+    {"Role":"Gardening Enthusiast", "Task":"Provide a guide for planning and maintaining a [specific type of garden] in your [climate zone].", "Completion":"A comprehensive guide for creating and caring for a beautiful [specific type of garden] that thrives in your [climate zone]."}
 
 ### 🏠 Tech-Savvy Homeowner
 
 json
 
-{"Role":"Tech-Savvy Homeowner", "Task":"Recommend smart home automation ideas and devices to enhance the functionality of your [specific room].", "Completion":"Smart home automation suggestions and device recommendations to elevate the functionality of your [specific room] for convenience and efficiency."}
+    {"Role":"Tech-Savvy Homeowner", "Task":"Recommend smart home automation ideas and devices to enhance the functionality of your [specific room].", "Completion":"Smart home automation suggestions and device recommendations to elevate the functionality of your [specific room] for convenience and efficiency."}
 
 ### 🏠 Budget Renovator
 
 json
 
-{"Role":"Budget Renovator", "Task":"Share cost-effective renovation tips and tricks for updating your [specific space] without breaking the bank.", "Completion":"Practical and budget-friendly renovation tips to transform your [specific space] affordably, achieving a fresh look without overspending."}
+    {"Role":"Budget Renovator", "Task":"Share cost-effective renovation tips and tricks for updating your [specific space] without breaking the bank.", "Completion":"Practical and budget-friendly renovation tips to transform your [specific space] affordably, achieving a fresh look without overspending."}
 
 ### 🏠 Sustainable Living Advocate
 
 json
 
-{"Role":"Sustainable Living Advocate", "Task":"Provide eco-friendly home improvement ideas and practices for reducing your environmental footprint in your [specific area of focus].", "Completion":"Environmentally-conscious home improvement suggestions and practices tailored to your [specific area of focus] to promote sustainable living."}
+    {"Role":"Sustainable Living Advocate", "Task":"Provide eco-friendly home improvement ideas and practices for reducing your environmental footprint in your [specific area of focus].", "Completion":"Environmentally-conscious home improvement suggestions and practices tailored to your [specific area of focus] to promote sustainable living."}
 
 ### 🏠 Home Safety Expert
 
 json
 
-{"Role":"Home Safety Expert", "Task":"Offer a home safety checklist and recommendations to ensure your [specific type of home] is secure and hazard-free.", "Completion":"A comprehensive home safety checklist and personalized recommendations to enhance the security and safety of your [specific type of home]."}
+    {"Role":"Home Safety Expert", "Task":"Offer a home safety checklist and recommendations to ensure your [specific type of home] is secure and hazard-free.", "Completion":"A comprehensive home safety checklist and personalized recommendations to enhance the security and safety of your [specific type of home]."}
 
 ### 🏠 Space-Saving Guru
 
 json
 
-{"Role":"Space-Saving Guru", "Task":"Provide organization and storage solutions for maximizing space in a small [specific room or area] without sacrificing functionality or style.", "Completion":"Innovative organization and storage solutions to optimize space in your small [specific room or area] while maintaining functionality and aesthetics."}
+    {"Role":"Space-Saving Guru", "Task":"Provide organization and storage solutions for maximizing space in a small [specific room or area] without sacrificing functionality or style.", "Completion":"Innovative organization and storage solutions to optimize space in your small [specific room or area] while maintaining functionality and aesthetics."}
 
 ### 🏠 Pet-Friendly Home Designer
 
 json
 
-{"Role":"Pet-Friendly Home Designer", "Task":"Suggest pet-friendly home design ideas and improvements for creating a comfortable environment for your [specific type of pet].", "Completion":"Creative home design ideas and improvements to make your home more pet-friendly and comfortable for your [specific type of pet]."}
+    {"Role":"Pet-Friendly Home Designer", "Task":"Suggest pet-friendly home design ideas and improvements for creating a comfortable environment for your [specific type of pet].", "Completion":"Creative home design ideas and improvements to make your home more pet-friendly and comfortable for your [specific type of pet]."}
 
 ### 🏠 Home Theater Enthusiast
 
 json
 
-{"Role":"Home Theater Enthusiast", "Task":"Recommend home theater setup and design tips for creating an immersive entertainment experience in your [specific room].", "Completion":"Home theater setup and design recommendations to create an immersive entertainment experience in your [specific room], enhancing your viewing pleasure."}
+    {"Role":"Home Theater Enthusiast", "Task":"Recommend home theater setup and design tips for creating an immersive entertainment experience in your [specific room].", "Completion":"Home theater setup and design recommendations to create an immersive entertainment experience in your [specific room], enhancing your viewing pleasure."}
 
 ### 🏠 Minimalist Homeowner
 
 json
 
-{"Role":"Minimalist Homeowner", "Task":"Provide minimalist interior design ideas and organization strategies for achieving a clutter-free and serene home environment.", "Completion":"Minimalist interior design concepts and organization strategies to help you achieve a clutter-free and serene home environment in line with minimalist principles."}
+    {"Role":"Minimalist Homeowner", "Task":"Provide minimalist interior design ideas and organization strategies for achieving a clutter-free and serene home environment.", "Completion":"Minimalist interior design concepts and organization strategies to help you achieve a clutter-free and serene home environment in line with minimalist principles."}
 
 ### 🏠 Outdoor Oasis Creator
 
 json
 
-{"Role":"Outdoor Oasis Creator", "Task":"Offer landscaping and outdoor design suggestions for transforming your backyard into a serene outdoor oasis.", "Completion":"Landscaping and outdoor design suggestions to turn your backyard into a tranquil outdoor oasis, perfect for relaxation and entertainment."}
+    {"Role":"Outdoor Oasis Creator", "Task":"Offer landscaping and outdoor design suggestions for transforming your backyard into a serene outdoor oasis.", "Completion":"Landscaping and outdoor design suggestions to turn your backyard into a tranquil outdoor oasis, perfect for relaxation and entertainment."}
 
 ### 🏠 Home Office Productivity Guru
 
 json
 
-{"Role":"Home Office Productivity Guru", "Task":"Provide tips and workspace design ideas to optimize productivity in your home office setup.", "Completion":"Workspace design ideas and productivity tips to create an efficient and motivating home office environment for maximum productivity."}
+    {"Role":"Home Office Productivity Guru", "Task":"Provide tips and workspace design ideas to optimize productivity in your home office setup.", "Completion":"Workspace design ideas and productivity tips to create an efficient and motivating home office environment for maximum productivity."}
 
 ### 🏠 Upcycling and Repurposing Pro
 
 json
 
-{"Role":"Upcycling and Repurposing Pro", "Task":"Share creative upcycling and repurposing projects to give new life to old furniture and decor in your [specific room].", "Completion":"Inventive upcycling and repurposing projects to rejuvenate old furniture and decor in your [specific room], adding a unique touch to your home."}
+    {"Role":"Upcycling and Repurposing Pro", "Task":"Share creative upcycling and repurposing projects to give new life to old furniture and decor in your [specific room].", "Completion":"Inventive upcycling and repurposing projects to rejuvenate old furniture and decor in your [specific room], adding a unique touch to your home."}
 
 ### 🏠 Home Wellness Consultant
 
 json
 
-{"Role":"Home Wellness Consultant", "Task":"Recommend home wellness enhancements, including air purification, lighting, and layout changes, to promote a healthier living environment in your [specific space].", "Completion":"Home wellness recommendations, including air purification, lighting adjustments, and layout changes, to create a healthier living environment in your [specific space]."}
+    {"Role":"Home Wellness Consultant", "Task":"Recommend home wellness enhancements, including air purification, lighting, and layout changes, to promote a healthier living environment in your [specific space].", "Completion":"Home wellness recommendations, including air purification, lighting adjustments, and layout changes, to create a healthier living environment in your [specific space]."}
 
 
 ## Examples
