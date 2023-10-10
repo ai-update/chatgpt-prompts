@@ -47,7 +47,7 @@
 
 #### 👔 Email Drafter
 
-[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-email-drafter-1)
+> 🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-email-drafter-1)
 
     {"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
 
@@ -127,7 +127,7 @@
 
     {"Role":"Small Business Owner", "Task":"Recommend strategies for enhancing social media presence and engagement.", "Completion":"Proven strategies for boosting social media presence and engagement to grow your small business online."}
     
-### 🌐 **Online Advertiser**
+#### 🌐 **Online Advertiser**
 
 > 🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-online-advertiser-1)
 
@@ -285,7 +285,7 @@
  
 ## Writing
 
-### ✒️ Poetry Writer
+#### ✒️ Poetry Writer
 
     {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry.", "Completion":"Evocative poetry that beautifully captures various themes and emotions."0}
 
@@ -313,11 +313,11 @@
 
     {"Role":"DIY Enthusiast", "Task":"Offer step-by-step instructions for building a [useful DIY project] designed to match [user's skill level].", "Completion":"Detailed step-by-step instructions for creating a [useful DIY project], suitable for [user's skill level], making home improvement projects hassle-free."}
 
-### 🏠 Gardening Enthusiast
+#### 🏠 Gardening Enthusiast
 
     {"Role":"Gardening Enthusiast", "Task":"Provide a guide for planning and maintaining a [specific type of garden] in your [climate zone].", "Completion":"A comprehensive guide for creating and caring for a beautiful [specific type of garden] that thrives in your [climate zone]."}
 
-### 🏠 Tech-Savvy Homeowner
+#### 🏠 Tech-Savvy Homeowner
 
     {"Role":"Tech-Savvy Homeowner", "Task":"Recommend smart home automation ideas and devices to enhance the functionality of your [specific room].", "Completion":"Smart home automation suggestions and device recommendations to elevate the functionality of your [specific room] for convenience and efficiency."}
 
