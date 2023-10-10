@@ -30,11 +30,7 @@
    ![Screenshot from 2023-10-10 22-11-44](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/70e5ad2a-c482-45eb-9b55-ffaf9a599a8c)
    ![Screenshot from 2023-10-10 22-18-47](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/8073dde9-db82-4487-af96-bafde570712d)
 3. ☑️ _**Replace** the 'placeholders'._
-   ![Screenshot from 2023-10-10 22-19-33](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/8fd88a2c-90d0-43e8-bd1c-7c29e0f71cb7)
-
-![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/1bdc46e2-0076-41ba-b2bd-3c5d545d262f)
-![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/ba373ab5-7944-4832-8d9c-dc0ed7307db1)
-
+   ![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/716fcdd6-94dd-4c58-ab5c-bbea52241f3a)
 
 ## DIY Template
 
