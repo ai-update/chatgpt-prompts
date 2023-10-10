@@ -83,7 +83,9 @@
 
 ### 👔 Financial Analyst
 
-[Example](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-party-planner-1)
+    {"Role":"Financial Analyst", "Task":"Prepare a financial report for Q3 20XX for [company].", "Completion":"A comprehensive financial report for Q3 20XX for [company], including income statements, balance sheets, and cash flow analysis."}
+
+[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-financial-analyst-1)
 
 ### Marketing
 
