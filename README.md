@@ -6,20 +6,21 @@
 
 ## Table of Contents
 
-- [**ℹ️ Instructions**](#instructions)
-- [**🧑‍🔧 DIY Template**](#diy-template)
-- [**➕ More Prompts**](#more-prompts)
+- ℹ️ [**Instructions**](#instructions)
+- 🧑‍🔧 [**DIY Template**](#diy-template)
+- ➕ [**More Prompts**](#more-prompts)
 #### Prompts:
-- [**📅 Planning**](#planning)
-- [**👔 Business**](#business)
-  [**🌐 Marketing**](#marketing)
-  [**💼 Career Development**](#career-development)
-- [**🎓 Education**](#education)
-- [**📱 Social Media**](#social-media)
-- [**✍️ Writing**](#writing)
-- [**🏋️‍♂️ Fitness and Health**](#fitness-health)
-- [**🏠 Home Improvement**](#home-improvement)
-- [**🎯 Examples**](#examples)
+- 👔 [**Business:**](#business)
+🌐  [** Marketing**](#marketing)
+💼 [**Career Development**](#career-development)
+- 🎓 [**Education**](#education)
+- [**
+- 📅 [**Planning**](#planning)
+- 📱 [**Social Media**](#social-media)
+- ✍️ [**Writing**](#writing)
+- 🏋️‍♂️ [**Fitness and Health**](#fitness-health)
+- 🏠 [**Home Improvement**](#home-improvement)
+- 🎯 [**Examples**](#examples)
 
 ## Instructions:
 
