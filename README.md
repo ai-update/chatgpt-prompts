@@ -51,7 +51,7 @@
 
 ### 👔 Resume Builder
 
-[**Example**](#https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#resume-builder)
+🎯 [**Example**](#https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#resume-builder)
 
     {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume.", "Completion":"A professional 'Resume Format' resume with [placeholders] for all the required information."}
 
@@ -73,7 +73,7 @@
 
 ### 👔 Nonprofit Fundraiser
 
-[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-nonprofit-fundraiser-1)
+🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-nonprofit-fundraiser-1)
 
     {"Role":"Nonprofit Fundraiser", "Task":"Develop a fundraising strategy for [nonprofit organization] for the next year.", "Completion":"A strategic fundraising plan for [nonprofit organization], including campaigns and donor engagement strategies for the next year."}
 
@@ -87,7 +87,7 @@
 
 ### 👔 Financial Analyst
 
-[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-financial-analyst-1)
+🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-financial-analyst-1)
 
     {"Role":"Financial Analyst", "Task":"Prepare a financial report for Q3 20XX for [company].", "Completion":"A comprehensive financial report for Q3 20XX for [company], including income statements, balance sheets, and cash flow analysis."}
 
@@ -95,7 +95,7 @@
 
 ### 🌐 **Marketing Plan Generator**
 
-[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-marketing-plan-generator-1)
+🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-marketing-plan-generator-1)
 
     {"Role":"Marketing Manager", "Task":"Create a marketing plan for the launch of 'Product Name'.", "Completion":"A strategic marketing plan for the launch of 'Product Name,' including target audience, channels, and budget."}
 
@@ -125,7 +125,7 @@
     
 ### 🌐 **Online Advertiser**
 
-[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-online-advertiser-1)
+🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-online-advertiser-1)
 
     {"Role":"Online Advertiser", "Task":"Create ad copy for a Facebook ad campaign promoting [product or service].", "Completion":"Engaging ad copy for a Facebook ad campaign promoting [product or service], attracting potential customers."}
     
@@ -213,7 +213,7 @@
 
 ### 🍽️ Recipe Generator
 
-[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#%EF%B8%8F-recipe-generator-1)
+🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#%EF%B8%8F-recipe-generator-1)
 
     {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
 
@@ -233,7 +233,7 @@
 
 ### 📅 Party Planner
 
-[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-party-planner-1)
+🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-party-planner-1)
 
     {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
 
