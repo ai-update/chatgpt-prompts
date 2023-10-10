@@ -71,7 +71,7 @@
 
     {"Role":"Sales Representative", "Task":"Create a sales pitch presentation for [product/service] to present to potential clients.", "Completion":"A persuasive sales pitch presentation for [product/service] with key selling points and visuals for potential client meetings."}
 
-### 👔 Nonprofit Fundraiser
+#### 👔 Nonprofit Fundraiser
 
 > 🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-nonprofit-fundraiser-1)
 
@@ -85,7 +85,7 @@
 
     {"Role":"Diversity and Inclusion Manager", "Task":"Create a diversity and inclusion training program for employees.", "Completion":"A comprehensive diversity and inclusion training program for employees, including modules and resources."}
 
-### 👔 Financial Analyst
+#### 👔 Financial Analyst
 
 > 🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-financial-analyst-1)
 
@@ -337,11 +337,23 @@
 
 ### Business
 
+#### 👔 Email Drafter
+
+    {"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
+
+![Screenshot 2023-10-10 at 21-11-59 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/62af9fc0-36d5-4115-b17b-56c684fb539d)
+
 #### 👔 Resume Builder
 
     {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume.", "Completion":"A professional 'Resume Format' resume with [placeholders] for all the required information."}
 
 ![Screenshot 2023-10-10 at 20-33-36 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/389d59a6-d53e-4f98-8768-66e821a5fdf2)
+
+👔 Contract Drafter
+
+    {"Role":"Legal Contract Drafter", "Task":"Draft 'Legal Agreement Type' contracts with appropriate clauses.", "Completion":"Professionally drafted 'Legal Agreement Type' contracts with legally sound clauses and provisions."}
+
+![Screenshot 2023-10-10 at 21-18-28 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/67384f0e-781e-499c-99ad-750b402d40f7)
 
 #### 👔 Nonprofit Fundraiser
 
