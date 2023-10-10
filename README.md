@@ -24,15 +24,15 @@
 
 ## Instructions:
 
-1. ☑️ **Choose a prompt**.
+1. ☑️ **Choose a prompt:**
    
    > ![Screenshot from 2023-10-10 22-13-00](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/71bfcc11-c7f5-4793-af41-3c5d0053c688)
    
-2. ☑️ **Copy/Paste the prompt**.
+2. ☑️ **Copy/Paste the prompt:**
    
    > ![a123](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/15d65d72-6962-4165-811c-4633e997a37e)
    
-3. ☑️ **Replace the 'placeholders'**.
+3. ☑️ **Replace the 'placeholders':**
    
    > ![aa123](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/b4631bee-21e7-4765-b662-3fa4c93f55f3)
 
