@@ -353,8 +353,6 @@
 
     {"Role":"Financial Analyst", "Task":"Prepare a financial report for Q3 20XX for [company].", "Completion":"A comprehensive financial report for Q3 20XX for [company], including income statements, balance sheets, and cash flow analysis."}
 
-![Screenshot 2023-10-10 at 19-16-52 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/b0790646-149c-4de0-ac29-07d464bc916a)
-
 ![Screenshot 2023-10-10 at 19-17-37 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/5908fb3b-0a94-47b1-93bc-ab3d1c56e570)
 
 #### 🌐 Online Advertiser
