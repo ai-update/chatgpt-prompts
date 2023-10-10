@@ -27,7 +27,6 @@
 1. ☑️ _**Choose** a prompt._
    ![Screenshot from 2023-10-10 22-13-00](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/71bfcc11-c7f5-4793-af41-3c5d0053c688)
 2. ☑️ _**Copy/Paste** the prompt_
-   ![Screenshot from 2023-10-10 22-11-44](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/70e5ad2a-c482-45eb-9b55-ffaf9a599a8c)
    ![Screenshot from 2023-10-10 22-18-47](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/8073dde9-db82-4487-af96-bafde570712d)
 3. ☑️ _**Replace** the 'placeholders'._
    ![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/716fcdd6-94dd-4c58-ab5c-bbea52241f3a)
