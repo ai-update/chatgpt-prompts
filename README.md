@@ -14,9 +14,7 @@
 - [**👔 Business**](#business)
 > [**🌐 Marketing**](#marketing)
 >> [**💼 Career Development**](#career-development)
-- [**🔎 Research**](#research)
 - [**🎓 Education**](#education)
-- [**💬 Languages**](#languages)
 - [**📱 Social Media**](#social-media)
 - [**✍️ Writing**](#writing)
 - [**🏋️‍♂️ Fitness and Health**](#fitness-health)
@@ -44,27 +42,7 @@
 > 💲 **19.99**
 
 # Prompts:
-
-## Planning
-
-### 📅 Schedule Planner
-
-    {"Role":"Schedule Planner", "Task":"Create a schedule for my daily activities.", "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
-
-### 📅 Event Organizer
-
-    {"Role":"Event Organizer", "Task":"Outline a detailed checklist for planning a successful [type of event] tailored to [user's specific preferences].", "Completion":"A meticulously planned checklist for organizing a memorable [type of event], tailored to match [user's specific preferences] and ensuring no detail is overlooked."}
-
-### 📅 Party Planner
-
-    {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
-
-## Food & Drinks
-
-### 🍽️ Recipe Generator
-
-    {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
-
+    
 ## Business
 
 ### 👔 Email Drafter
@@ -221,6 +199,30 @@
 
     {"Role":"Art Teacher", "Task":"Conduct a creative arts and crafts workshop for [Grade Level] students, focusing on '[Theme]' art projects.", "Completion":"A hands-on arts and crafts workshop for [Grade Level] students, with '[Theme]' themed art projects, materials, and demonstrations to foster creativity."}
 
+## Food & Drinks
+
+### 🍽️ Recipe Generator
+
+    {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
+
+### 🍽️ Nutritionist
+
+    {"Role":"Nutritionist", "Task":"Recommend a balanced meal plan for a [user's dietary preference] individual aiming to [user's dietary goal].", "Completion":"A balanced meal plan designed for a [user's dietary preference] individual working toward [user's dietary goal]."}
+
+## Planning
+
+### 📅 Schedule Planner
+
+    {"Role":"Schedule Planner", "Task":"Create a schedule for my daily activities.", "Completion":"A concise, and detailed, and realistic schedule for my daily activities."}
+
+### 📅 Event Organizer
+
+    {"Role":"Event Organizer", "Task":"Outline a detailed checklist for planning a successful [type of event].", "Completion":"A meticulously planned checklist for organizing a memorable [type of event], ensuring no detail is overlooked."}
+
+### 📅 Party Planner
+
+    {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
+
 ## Social Media
 
 ### 📱 Social Media Ad Template Creator
@@ -275,10 +277,6 @@
 
     {"Role":"Fitness Coach", "Task":"Develop a personalized workout plan for achieving [user's fitness goal] based on your assessment of [user's fitness level].", "Completion":"A customized workout plan tailored to help you achieve your [user's fitness goal] and optimized for your current [user's fitness level]."}
 
-### 🏋️‍♂️ Nutritionist
-
-    {"Role":"Nutritionist", "Task":"Recommend a balanced meal plan for a [user's dietary preference] individual aiming to [user's dietary goal].", "Completion":"A balanced meal plan designed for a [user's dietary preference] individual working toward [user's dietary goal]."}
-
 ## Home Improvement
 
 ### 🏠 Home Organizer
@@ -320,35 +318,6 @@
 ### 🏠 Space-Saving Guru
 
     {"Role":"Space-Saving Guru", "Task":"Provide organization and storage solutions for maximizing space in a small [specific room or area] without sacrificing functionality or style.", "Completion":"Innovative organization and storage solutions to optimize space in your small [specific room or area] while maintaining functionality and aesthetics."}
-
-### 🏠 Pet-Friendly Home Designer
-
-    {"Role":"Pet-Friendly Home Designer", "Task":"Suggest pet-friendly home design ideas and improvements for creating a comfortable environment for your [specific type of pet].", "Completion":"Creative home design ideas and improvements to make your home more pet-friendly and comfortable for your [specific type of pet]."}
-
-### 🏠 Home Theater Enthusiast
-
-    {"Role":"Home Theater Enthusiast", "Task":"Recommend home theater setup and design tips for creating an immersive entertainment experience in your [specific room].", "Completion":"Home theater setup and design recommendations to create an immersive entertainment experience in your [specific room], enhancing your viewing pleasure."}
-
-### 🏠 Minimalist Homeowner
-
-    {"Role":"Minimalist Homeowner", "Task":"Provide minimalist interior design ideas and organization strategies for achieving a clutter-free and serene home environment.", "Completion":"Minimalist interior design concepts and organization strategies to help you achieve a clutter-free and serene home environment in line with minimalist principles."}
-
-### 🏠 Outdoor Oasis Creator
-
-    {"Role":"Outdoor Oasis Creator", "Task":"Offer landscaping and outdoor design suggestions for transforming your backyard into a serene outdoor oasis.", "Completion":"Landscaping and outdoor design suggestions to turn your backyard into a tranquil outdoor oasis, perfect for relaxation and entertainment."}
-
-### 🏠 Home Office Productivity Guru
-
-    {"Role":"Home Office Productivity Guru", "Task":"Provide tips and workspace design ideas to optimize productivity in your home office setup.", "Completion":"Workspace design ideas and productivity tips to create an efficient and motivating home office environment for maximum productivity."}
-
-### 🏠 Upcycling and Repurposing Pro
-
-    {"Role":"Upcycling and Repurposing Pro", "Task":"Share creative upcycling and repurposing projects to give new life to old furniture and decor in your [specific room].", "Completion":"Inventive upcycling and repurposing projects to rejuvenate old furniture and decor in your [specific room], adding a unique touch to your home."}
-
-### 🏠 Home Wellness Consultant
-
-    {"Role":"Home Wellness Consultant", "Task":"Recommend home wellness enhancements, including air purification, lighting, and layout changes, to promote a healthier living environment in your [specific space].", "Completion":"Home wellness recommendations, including air purification, lighting adjustments, and layout changes, to create a healthier living environment in your [specific space]."}
-
 
 ## Examples
 
