@@ -32,6 +32,10 @@
 3. ☑️ _**Replace** the 'placeholders'._
    ![Screenshot from 2023-10-10 22-19-33](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/8fd88a2c-90d0-43e8-bd1c-7c29e0f71cb7)
 
+![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/1bdc46e2-0076-41ba-b2bd-3c5d545d262f)
+![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/ba373ab5-7944-4832-8d9c-dc0ed7307db1)
+
+
 ## DIY Template
 
     {"Role":"ideal_agent", "Task":"task","Completion":"ideal_answer"}
