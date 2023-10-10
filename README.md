@@ -51,7 +51,7 @@
 
 #### 👔 Resume Builder
 
-🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#resume-builder)
+> 🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#resume-builder)
 
     {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume.", "Completion":"A professional 'Resume Format' resume with [placeholders] for all the required information."}
 
