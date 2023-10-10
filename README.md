@@ -11,7 +11,7 @@
 - ➕ [**More Prompts**](#more-prompts)
 #### Prompts:
 - 👔 [**Business:**](#business)
-- > 🌐 [**Marketing**](#marketing)
+-- 🌐 [**Marketing**](#marketing)
 - > 💼 [**Career Development**](#career-development)
 - 🎓 [**Education**](#education)
 - 🍽️ [**Food and Drinks**](#food-drinks)
