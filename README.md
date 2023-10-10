@@ -1,4 +1,4 @@
-# ChatGPT-3.5 Prompts
+![Screenshot 2023-10-10 at 20-33-36 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/7c1f1bd9-9369-4bd2-b55d-601c89fea0cc)# ChatGPT-3.5 Prompts
 
 ℹ️ A collection of **prompts** for the [**free version**](https://openai.com/chatgpt) of [**ChatGPT**](https://openai.com/chatgpt).
 
@@ -9,7 +9,7 @@
 - [**ℹ️ Instructions**](#instructions)
 - [**🧑‍🔧 DIY Template**](#diy-template)
 - [**➕ More Prompts**](#more-prompts)
-- **Prompts:**
+#### Prompts:
 - [**📅 Planning**](#planning)
 - [**👔 Business**](#business)
 > [**🌐 Marketing**](#marketing)
@@ -51,6 +51,8 @@
 
 ### 👔 Resume Builder
 
+[**Example**](
+
     {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume.", "Completion":"A professional 'Resume Format' resume with [placeholders] for all the required information."}
 
 ### 👔 Contract Drafter
@@ -71,9 +73,9 @@
 
 ### 👔 Nonprofit Fundraiser
 
-    {"Role":"Nonprofit Fundraiser", "Task":"Develop a fundraising strategy for [nonprofit organization] for the next year.", "Completion":"A strategic fundraising plan for [nonprofit organization], including campaigns and donor engagement strategies for the next year."}
-
 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-nonprofit-fundraiser-1)
+
+    {"Role":"Nonprofit Fundraiser", "Task":"Develop a fundraising strategy for [nonprofit organization] for the next year.", "Completion":"A strategic fundraising plan for [nonprofit organization], including campaigns and donor engagement strategies for the next year."}
 
 ### 👔 Public Speaker
 
@@ -121,9 +123,9 @@
     
 ### 🌐 **Online Advertiser**
 
-    {"Role":"Online Advertiser", "Task":"Create ad copy for a Facebook ad campaign promoting [product or service].", "Completion":"Engaging ad copy for a Facebook ad campaign promoting [product or service], attracting potential customers."}
-
 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-online-advertiser-1)
+
+    {"Role":"Online Advertiser", "Task":"Create ad copy for a Facebook ad campaign promoting [product or service].", "Completion":"Engaging ad copy for a Facebook ad campaign promoting [product or service], attracting potential customers."}
     
 ### 🌐 **Affiliate Marketer**
 
@@ -209,9 +211,9 @@
 
 ### 🍽️ Recipe Generator
 
-    {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
-
 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#%EF%B8%8F-recipe-generator-1)
+
+    {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
 
 ### 🍽️ Nutritionist
 
@@ -229,9 +231,9 @@
 
 ### 📅 Party Planner
 
-    {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
-
 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-party-planner-1)
+
+    {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
 
 ## Social Media
 
@@ -330,6 +332,12 @@
     {"Role":"Space-Saving Guru", "Task":"Provide organization and storage solutions for maximizing space in a small [specific room or area] without sacrificing functionality or style.", "Completion":"Innovative organization and storage solutions to optimize space in your small [specific room or area] while maintaining functionality and aesthetics."}
 
 ## Examples
+
+### Resume Builder
+
+    {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume.", "Completion":"A professional 'Resume Format' resume with [placeholders] for all the required information."}
+
+![Screenshot 2023-10-10 at 20-33-36 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/389d59a6-d53e-4f98-8768-66e821a5fdf2)
 
 ### 👔 Nonprofit Fundraiser
 
