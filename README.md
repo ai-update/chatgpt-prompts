@@ -51,7 +51,7 @@
 
 #### 👔 Resume Builder
 
-🎯 [**Example**](#https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#resume-builder)
+🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#resume-builder)
 
     {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume.", "Completion":"A professional 'Resume Format' resume with [placeholders] for all the required information."}
 
@@ -353,13 +353,9 @@
 
     {"Role":"Financial Analyst", "Task":"Prepare a financial report for Q3 20XX for [company].", "Completion":"A comprehensive financial report for Q3 20XX for [company], including income statements, balance sheets, and cash flow analysis."}
 
-![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/0d5dec7c-0915-40f6-8d45-53ec469ffa45)
-
 ![Screenshot 2023-10-10 at 19-16-52 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/b0790646-149c-4de0-ac29-07d464bc916a)
 
 ![Screenshot 2023-10-10 at 19-17-37 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/5908fb3b-0a94-47b1-93bc-ab3d1c56e570)
-
-![Screenshot 2023-10-10 at 19-18-00 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/c8a7bda6-7b48-49e3-adc2-e846cc268b13)
 
 #### 🌐 Online Advertiser
 
