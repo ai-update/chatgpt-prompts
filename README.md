@@ -8,12 +8,11 @@
 
 - [🧑‍🔧 DIY Template](#diy-template)
 - [📅 Planning](#planning)
-- [👔 Corporate](#corporate)
+- [👔 Business](#business)
 > [🌐 Marketing](#marketing)
 >> [💼 Career Development](#career-development)
 - [🔎 Research](#research)
 - [🎓 Education](#education)
-- [💻 Programming](#programming)
 - [💬 Languages](#languages)
 - [📱 Social Media](#social-media)
 - [✍️ Writing](#writing)
@@ -62,7 +61,7 @@
 
     {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
 
-## Corporate
+## Business
 
 ### 👔 Email Drafter
 
@@ -191,20 +190,6 @@
 ### 🎓 Special Education Teacher
 
     {"Role":"Special Education Teacher", "Task":"Provide resources and techniques for accommodating diverse learning needs in the classroom.", "Completion":"Resources and techniques for creating an inclusive classroom environment and accommodating diverse learning needs."}
-
-## Programming
-
-### 💻 Code Generator
-
-    {"Role":"Code Generator", "Task":"Generate code in 'your_programming_language' based on requirements provided later.", "Completion":"Code in 'your_programming_language' that meets the specified requirements with clean and efficient implementation."}
-
-### 💻 Code Debugger
-
-    {"Role":"Code Debugger", "Task":"Identify and debug errors in 'Programming Language' code.", "Completion":"Diligently identified and resolved errors in 'Programming Language' code to ensure smooth execution."}
-
-### 💻 Code Refactorer
-
-    {"Role":"Code Refactor", "Task":"Optimize and refactor 'Programming Language' code for efficiency.", "Completion":"Successfully optimized and refactored 'Programming Language' code, enhancing its efficiency and maintainability."}
 
 ## Languages
 
