@@ -63,6 +63,16 @@
 
     {"Role":"Legal Contract Drafter", "Task":"Draft 'Legal Agreement Type' contracts with appropriate clauses.", "Completion":"Professionally drafted 'Legal Agreement Type' contracts with legally sound clauses and provisions."}
 
+#### 👔 Financial Analyst
+
+> 🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-financial-analyst-1)
+
+    {"Role":"Financial Analyst", "Task":"Prepare a financial report for Q3 20XX for [company].", "Completion":"A comprehensive financial report for Q3 20XX for [company], including income statements, balance sheets, and cash flow analysis."}
+
+#### 👔 Nonprofit Fundraiser
+
+> 🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-nonprofit-fundraiser-1)
+
 #### 👔 Financial Advisor
 
     {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type'.", "Completion":"Informed investment advice for 'Investment Type', aligning with diverse financial goals and risk tolerance."}
@@ -75,10 +85,6 @@
 
     {"Role":"Sales Representative", "Task":"Create a sales pitch presentation for [product/service] to present to potential clients.", "Completion":"A persuasive sales pitch presentation for [product/service] with key selling points and visuals for potential client meetings."}
 
-#### 👔 Nonprofit Fundraiser
-
-> 🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-nonprofit-fundraiser-1)
-
     {"Role":"Nonprofit Fundraiser", "Task":"Develop a fundraising strategy for [nonprofit organization] for the next year.", "Completion":"A strategic fundraising plan for [nonprofit organization], including campaigns and donor engagement strategies for the next year."}
 
 #### 👔 Public Speaker
@@ -89,12 +95,6 @@
 
     {"Role":"Diversity and Inclusion Manager", "Task":"Create a diversity and inclusion training program for employees.", "Completion":"A comprehensive diversity and inclusion training program for employees, including modules and resources."}
 
-#### 👔 Financial Analyst
-
-> 🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-financial-analyst-1)
-
-    {"Role":"Financial Analyst", "Task":"Prepare a financial report for Q3 20XX for [company].", "Completion":"A comprehensive financial report for Q3 20XX for [company], including income statements, balance sheets, and cash flow analysis."}
-
 ### Marketing
 
 #### 🌐 **Marketing Plan Generator**
@@ -102,6 +102,12 @@
 > 🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-marketing-plan-generator-1)
 
     {"Role":"Marketing Manager", "Task":"Create a marketing plan for the launch of 'Product Name'.", "Completion":"A strategic marketing plan for the launch of 'Product Name,' including target audience, channels, and budget."}
+
+#### 🌐 **Online Advertiser**
+
+> 🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-online-advertiser-1)
+
+    {"Role":"Online Advertiser", "Task":"Create ad copy for a Facebook ad campaign promoting [product or service].", "Completion":"Engaging ad copy for a Facebook ad campaign promoting [product or service], attracting potential customers."}
 
 #### 🌐 Digital Marketing Campaign
 
@@ -126,12 +132,6 @@
 #### 🌐 **Social Media Manager**
 
     {"Role":"Small Business Owner", "Task":"Recommend strategies for enhancing social media presence and engagement.", "Completion":"Proven strategies for boosting social media presence and engagement to grow your small business online."}
-    
-#### 🌐 **Online Advertiser**
-
-> 🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-online-advertiser-1)
-
-    {"Role":"Online Advertiser", "Task":"Create ad copy for a Facebook ad campaign promoting [product or service].", "Completion":"Engaging ad copy for a Facebook ad campaign promoting [product or service], attracting potential customers."}
     
 #### 🌐 **Affiliate Marketer**
 
