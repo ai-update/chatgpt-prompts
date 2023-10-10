@@ -1,4 +1,4 @@
-# ChatGPT-3.5 Prompts
+![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/0719bfe8-fecc-490e-9caf-e4b128774b91)# ChatGPT-3.5 Prompts
 
 ℹ️ A collection of **prompts** for the [**free version**](https://openai.com/chatgpt) of [**ChatGPT**](https://openai.com/chatgpt).
 
@@ -40,9 +40,7 @@
    
    _Example:_
 
-   > ![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/3c5dbc4e-040a-4ee8-a314-62dd82d92f11)
-
-   > ![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/716fcdd6-94dd-4c58-ab5c-bbea52241f3a)
+   > ![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/af3e63b7-149f-43c5-9b43-62452707bfb2)
 
 ## DIY Template
 
