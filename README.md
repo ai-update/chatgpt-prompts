@@ -9,7 +9,7 @@
 - ℹ️ [**Instructions**](#instructions)
 - 🧑‍🔧 [**DIY Template**](#diy-template)
 - ➕ [**More Prompts**](#more-prompts)
-#### Prompts:
+  #### Prompts:
 - 👔 [**Business:**](#business)
 🌐 [**Marketing**](#marketing)
 💼 [**Career Development**](#career-development)
