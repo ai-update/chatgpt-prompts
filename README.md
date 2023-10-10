@@ -274,5 +274,6 @@
 ### 🍽️ Recipe Generator
 
     {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
+    
+![Screenshot 2023-10-10 at 18-38-58 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/a9565521-0b87-47b0-a537-79ba9cac76bd)
 
-![Screenshot 2023-10-10 at 18-33-13 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/c4baeaa2-cc2d-4cec-b4dc-2cf3c46973bb)
