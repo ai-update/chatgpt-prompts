@@ -25,8 +25,12 @@
 ## Instructions:
 
 1. ☑️ _**Choose** a prompt._
-2. ☑️ _**Replace** the [placeholders]._
-3. ☑️ _**Copy and Paste** the prompt._
+   ![Screenshot from 2023-10-10 22-13-00](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/71bfcc11-c7f5-4793-af41-3c5d0053c688)
+2. ☑️ _**Copy/Paste** the prompt_
+   ![Screenshot from 2023-10-10 22-11-44](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/70e5ad2a-c482-45eb-9b55-ffaf9a599a8c)
+   ![Screenshot from 2023-10-10 22-18-47](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/8073dde9-db82-4487-af96-bafde570712d)
+3. ☑️ _**Replace** the 'placeholders'._
+   ![Screenshot from 2023-10-10 22-19-33](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/8fd88a2c-90d0-43e8-bd1c-7c29e0f71cb7)
 
 ## DIY Template
 
