@@ -1,4 +1,4 @@
-![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/0719bfe8-fecc-490e-9caf-e4b128774b91)# ChatGPT-3.5 Prompts
+# ChatGPT-3.5 Prompts
 
 ℹ️ A collection of **prompts** for the [**free version**](https://openai.com/chatgpt) of [**ChatGPT**](https://openai.com/chatgpt).
 
