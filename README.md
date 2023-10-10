@@ -49,7 +49,7 @@
 > 💲 **$9.99**
 
 ### 🛠️ [**1 Custom Prompt**](mailto:workcommunication@duck.com) 
-> 💲 **19.99**
+> 💲 **9.99+**
 
 ## Prompt Collection
     
