@@ -40,7 +40,7 @@
    
    _Example:_
 
-   > ![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/af3e63b7-149f-43c5-9b43-62452707bfb2)
+   > ![aa123](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/b4631bee-21e7-4765-b662-3fa4c93f55f3)
 
 ## DIY Template
 
