@@ -6,22 +6,20 @@
 
 ## Table of Contents
 
-- X Instructions
-- 🧑‍🔧 DIY Template
-- X More Prompts
-- X Prompts
-> 📅 Planning
-> 👔 Business
->> 🌐 Marketing
->>> 💼 Career Development
-> 🔎 Research
-> 🎓 Education
-> 💬 Languages
-> 📱 Social Media
-> ✍️ Writing
-> 🏋️‍♂️ Fitness and Health
-> 🏠 Home Improvement
-- X Example
+## Table of Contents
+
+- [🧑‍🔧 DIY Template](#diy-template)
+- [📅 Planning](#planning)
+- [👔 Business](#business)
+> [🌐 Marketing](#marketing)
+>> [💼 Career Development](#career-development)
+- [🔎 Research](#research)
+- [🎓 Education](#education)
+- [💬 Languages](#languages)
+- [📱 Social Media](#social-media)
+- [✍️ Writing](#writing)
+- [🏋️‍♂️ Fitness and Health](#fitness-health)
+- [🏠 Home Improvement](#home-improvement)
 
 ## Instructions:
 
