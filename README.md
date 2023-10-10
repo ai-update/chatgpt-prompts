@@ -115,7 +115,7 @@
 
 ### 🌐 Digital Marketing Campaign
 
-{"Role":"Marketing Manager", "Task":"Design and execute a digital marketing campaign to promote 'Product/Service' to the target audience.", "Completion":"A successful digital marketing campaign for 'Product/Service' that includes a creative strategy, content plan, ad placements, and key performance metrics, resulting in increased brand visibility and conversions."}
+    {"Role":"Marketing Manager", "Task":"Design and execute a digital marketing campaign to promote 'Product/Service' to the target audience.", "Completion":"A successful digital marketing campaign for 'Product/Service' that includes a creative strategy, content plan, ad placements, and key performance metrics, resulting in increased brand visibility and conversions."}
 
 ### 🌐 **Online Marketeer**
 
