@@ -8,7 +8,10 @@
 
 ## Table of Contents
 
+- [ℹ️ Instructions](#instructions)
 - [🧑‍🔧 DIY Template](#diy-template)
+- [➕ More Prompts](#more-prompts)
+  Prompts:
 - [📅 Planning](#planning)
 - [👔 Business](#business)
 > [🌐 Marketing](#marketing)
@@ -20,6 +23,7 @@
 - [✍️ Writing](#writing)
 - [🏋️‍♂️ Fitness and Health](#fitness-health)
 - [🏠 Home Improvement](#home-improvement)
+- [🎯 Examples](#examples)
 
 ## Instructions:
 
