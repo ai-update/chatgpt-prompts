@@ -1,4 +1,4 @@
-![Screenshot 2023-10-10 at 20-33-36 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/7c1f1bd9-9369-4bd2-b55d-601c89fea0cc)# ChatGPT-3.5 Prompts
+![Screenshot 2023-10-10 at 20-43-17 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/8a5b7069-77d6-424e-b87a-32a564054b47)![Screenshot 2023-10-10 at 20-33-36 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/7c1f1bd9-9369-4bd2-b55d-601c89fea0cc)# ChatGPT-3.5 Prompts
 
 ℹ️ A collection of **prompts** for the [**free version**](https://openai.com/chatgpt) of [**ChatGPT**](https://openai.com/chatgpt).
 
@@ -335,25 +335,19 @@
 
 ### Business
 
-### 👔 Resume Builder
+#### 👔 Resume Builder
 
     {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume.", "Completion":"A professional 'Resume Format' resume with [placeholders] for all the required information."}
 
 ![Screenshot 2023-10-10 at 20-33-36 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/389d59a6-d53e-4f98-8768-66e821a5fdf2)
 
-### 👔 Nonprofit Fundraiser
+#### 👔 Nonprofit Fundraiser
 
     {"Role":"Nonprofit Fundraiser", "Task":"Develop a fundraising strategy for [nonprofit organization] for the next year.", "Completion":"A strategic fundraising plan for [nonprofit organization], including campaigns and donor engagement strategies for the next year."}
 
 ![Screenshot 2023-10-10 at 19-25-15 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/baf8416a-3153-4e79-a2b9-3854173cf9be)
 
-### 🌐 Online Advertiser
-
-    {"Role":"Online Advertiser", "Task":"Create ad copy for a Facebook ad campaign promoting [product or service].", "Completion":"Engaging ad copy for a Facebook ad campaign promoting [product or service], attracting potential customers."}
-
-![Screenshot 2023-10-10 at 18-42-04 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/51d4e2b9-037d-4273-811d-e9a2c2371b43)
-
-### 👔 Financial Analyst
+#### 👔 Financial Analyst
 
     {"Role":"Financial Analyst", "Task":"Prepare a financial report for Q3 20XX for [company].", "Completion":"A comprehensive financial report for Q3 20XX for [company], including income statements, balance sheets, and cash flow analysis."}
 
@@ -365,9 +359,21 @@
 
 ![Screenshot 2023-10-10 at 19-18-00 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/c8a7bda6-7b48-49e3-adc2-e846cc268b13)
 
+#### 🌐 Online Advertiser
+
+    {"Role":"Online Advertiser", "Task":"Create ad copy for a Facebook ad campaign promoting [product or service].", "Completion":"Engaging ad copy for a Facebook ad campaign promoting [product or service], attracting potential customers."}
+
+![Screenshot 2023-10-10 at 18-42-04 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/51d4e2b9-037d-4273-811d-e9a2c2371b43)
+
+#### 🌐 Marketing Plan Generator
+
+    {"Role":"Marketing Manager", "Task":"Create a marketing plan for the launch of 'Product Name'.", "Completion":"A strategic marketing plan for the launch of 'Product Name,' including target audience, channels, and budget."}
+
+![Screenshot 2023-10-10 at 20-43-17 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/642fc778-7096-4327-9846-008dbfcc5580)
+
 ### Planning
 
-### 📅 Party Planner
+#### 📅 Party Planner
 
      {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
 
@@ -375,7 +381,7 @@
 
 ### Food & Drinks
 
-### 🍽️ Recipe Generator
+#### 🍽️ Recipe Generator
 
     {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
     
