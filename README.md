@@ -95,7 +95,7 @@
 
 ### 🌐 **Marketing Plan Generator**
 
-[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-marketing-plan-generator)
+[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-marketing-plan-generator-1)
 
     {"Role":"Marketing Manager", "Task":"Create a marketing plan for the launch of 'Product Name'.", "Completion":"A strategic marketing plan for the launch of 'Product Name,' including target audience, channels, and budget."}
 
