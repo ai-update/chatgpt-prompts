@@ -1,4 +1,4 @@
-# ChatGPT-3.5 Prompts
+![Screenshot 2023-10-10 at 06-17-31 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/063f5ebd-2f13-4588-a6cf-499750685442)![Screenshot 2023-10-10 at 06-18-47 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/43d37711-7f0e-4a67-b22a-e101c3f2b2a6)# ChatGPT-3.5 Prompts
 
 ℹ️ A collection of **prompts** for the [**free version**](https://openai.com/chatgpt) of [**ChatGPT**](https://openai.com/chatgpt).
 
@@ -263,3 +263,10 @@
 ### 🏠 DIY Enthusiast
 
     {"Role":"DIY Enthusiast", "Task":"Offer step-by-step instructions for building a [useful DIY project] designed to match [user's skill level].", "Completion":"Detailed step-by-step instructions for creating a [useful DIY project], suitable for [user's skill level], making home improvement projects hassle-free."}
+
+## Examples
+
+![Screenshot 2023-10-10 at 06-18-47 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/e4b8560b-1770-4316-aa71-2c5e1f9b2b2a)
+
+![Screenshot 2023-10-10 at 06-17-31 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/413a523f-437a-4983-b8a1-45ec2ddb9fc4)
+
