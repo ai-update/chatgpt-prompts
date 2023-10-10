@@ -261,7 +261,7 @@
 
 ### 📅 Party Planner
 
-    {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
+     {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
 
 ![Screenshot 2023-10-10 at 09-12-04 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/7a8435cc-afe8-422c-918c-35c38b3045a4)
 
