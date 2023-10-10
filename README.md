@@ -179,45 +179,31 @@
 
     {"Role":"Career Coach", "Task":"Recommend resources for assessing and aligning career goals with personal strengths.", "Completion":"Valuable resources for assessing and aligning career goals with personal strengths, facilitating career coaching."
 
-## Research
-
-### 🔬 Data Analyst
-
-    {"Role":"Data Analyst", "Task":"Analyze data: 'your_data_source' to derive insights and trends.", "Completion":"Thorough data analysis on 'your_data_source' to provide valuable insights and identify significant trends."}
-
-### 🔬 Research Assistant
-
-    {"Role":"Research", "Task":"Assist in researching 'your_research_topic' by providing relevant information.", "Completion":"Comprehensive and well-researched information to aid in the research process."}
-
 ## Education
 
 ### 🎓 Educator
 
     {"Role":"Educator", "Task":"Design a project-based learning activity for teaching [subject] to high school students.", "Completion":"A project-based learning activity plan for engaging high school students in [subject] education."}
 
-### 🎓 Student
+### 🎓 Education Curriculum Developer
 
-    {"Role":"Student", "Task":"Help me understand the concept of [complex topic] with a simple analogy.", "Completion":"A straightforward analogy to explain the concept of [complex topic], making it easier to grasp."}
-
-### 🎓 Parent
-
-    {"Role":"Parent", "Task":"Recommend educational games and activities for preschoolers to enhance cognitive development.", "Completion":"Fun and educational games and activities to stimulate cognitive development in preschoolers."}
-
-### 🎓 Language Teacher
-
-    {"Role":"Language Teacher", "Task":"Provide tips for effectively teaching grammar and vocabulary to beginners in [language].", "Completion":"Useful tips and techniques for teaching grammar and vocabulary to beginners in [language]."}
+    {"Role":"Curriculum Developer", "Task":"Create a comprehensive curriculum for a 'Subject/Topic' course for [Grade Level].", "Completion":"A well-structured and engaging curriculum for the 'Subject/Topic' course designed for [Grade Level], including lesson plans, assessments, and learning objectives that align with educational standards and goals."}
 
 ### 🎓 College Applicant
 
     {"Role":"College Applicant", "Task":"Help me write a standout personal statement for my college application.", "Completion":"A compelling personal statement for your college application that sets you apart from other applicants."}
 
-### 🎓 Homework Helper
+### 🎓 Classroom Teacher
 
-    {"Role":"Homework Helper", "Task":"Explain the steps for solving equations in [math subject].", "Completion":"Step-by-step instructions for solving equations in [math subject], simplifying the learning process."}
+    {"Role":"Classroom Teacher", "Task":"Plan a hands-on science experiment for [Grade Level] students to teach 'Science Concept' in the classroom.", "Completion":"A detailed lesson plan for a hands-on science experiment suitable for [Grade Level] students to effectively teach 'Science Concept' in a classroom setting."}
 
-### 🎓 History Buff
+### 🎓 Educational Content Creator
 
-    {"Role":"History Buff", "Task":"Summarize the key events and figures of a specific historical period.", "Completion":"A concise summary of the major events and notable figures from the specified historical period."}
+    {"Role":"Educational Content Creator", "Task":"Develop a series of interactive online lessons on 'Subject/Topic' for [Grade Level].", "Completion":"A series of engaging and interactive online lessons on 'Subject/Topic' tailored for [Grade Level], complete with multimedia content, quizzes, and assessments."}
+
+### 🎓 School Administrator
+
+    {"Role":"School Administrator", "Task":"Draft a school policy for [specific policy area] that aligns with state regulations.", "Completion":"A well-drafted school policy for [specific policy area] that complies with state regulations and ensures the safety and well-being of students and staff."}
 
 ### 🎓 Study Group Coordinator
 
@@ -227,21 +213,55 @@
 
     {"Role":"Special Education Teacher", "Task":"Provide resources and techniques for accommodating diverse learning needs in the classroom.", "Completion":"Resources and techniques for creating an inclusive classroom environment and accommodating diverse learning needs."}
 
-## Languages
+### 🎓 School Librarian
 
-### 💬 Translator
+    {"Role":"School Librarian", "Task":"Organize a '[Reading Challenge Name]' program for [Grade Level] students to encourage reading and literacy.", "Completion":"A comprehensive '[Reading Challenge Name]' program for [Grade Level] students, including reading goals, incentives, and a library display of recommended books."}
 
-    {"Role":"Translator", "Task":"Translate 'your_text' from 'your_language' to 'your_language'.", "Completion":"Accurately translated text with contextual understanding."}
+### 🎓 Art Teacher
 
-### 💬 Language Tutor
-
-    {"Role":"Language Tutor", "Task":"Provide lessons and practice exercises for 'Language Learning Task'.", "Completion":"Effective lessons and practice exercises, facilitating language learning."}
+    {"Role":"Art Teacher", "Task":"Conduct a creative arts and crafts workshop for [Grade Level] students, focusing on '[Theme]' art projects.", "Completion":"A hands-on arts and crafts workshop for [Grade Level] students, with '[Theme]' themed art projects, materials, and demonstrations to foster creativity."}
 
 ## Social Media
 
-### ⏰ Social Media Scheduler
+### 📱 Social Media Ad Template Creator
 
-    {"Role":"Social Media Scheduler", "Task":"Schedule 'Social Media Platform' posts for optimal engagement.", "Completion":"Strategically scheduled 'Social Media Platform' posts to maximize engagement and reach."}
+{"Role":"Social Media Ad Template Creator", "Task":"Design and create a set of visually appealing ad templates for [Product/Service] promotions on 'Social Media Platform'.", "Completion":"A set of eye-catching ad templates designed for [Product/Service] promotions on 'Social Media Platform,' featuring [placeholders] for customization."}
+
+### 📱 Social Media Ad Copy Generator
+
+{"Role":"Social Media Ad Copy Generator", "Task":"Craft compelling ad copy variations for 'Social Media Platform' ads promoting [Product/Service] to capture audience attention.", "Completion":"Engaging and attention-grabbing ad copy variations created for 'Social Media Platform' ads promoting [Product/Service], featuring [placeholders] for customization."}
+
+### 📱 Hashtag Generator
+
+    {"Role":"Hashtag Generator", "Task":"Generate a list of relevant and trending hashtags for [Campaign/Topic] on 'Social Media Platform' to increase visibility.", "Completion":"A list of well-researched and trending hashtags generated for [Campaign/Topic] on 'Social Media Platform' to enhance visibility."}
+
+### 📱 Social Media Hashtag Tracking
+
+    {"Role":"Social Media Hashtag Tracking Organizer", "Task":"Create a system to track and analyze the performance of hashtags used in 'Social Media Platform' posts for [Company/Brand].", "Completion":"An efficient system established for tracking and analyzing the performance of hashtags used in 'Social Media Platform' posts for [Company/Brand], providing valuable insights."}
+
+### 📱 Social Media Engagement Planner
+
+    {"Role":"Social Media Engagement Planner", "Task":"Plan and schedule regular engagement activities, such as polls, quizzes, and user-generated content contests, to boost audience interaction on 'Social Media Platform'.", "Completion":"A schedule of engaging activities, including polls, quizzes, and user-generated content contests, planned and scheduled to boost audience interaction on 'Social Media Platform'."}
+
+### 📱 Social Media Response Template Developer
+
+    {"Role":"Social Media Response Template Developer", "Task":"Craft a library of pre-approved response templates for common customer inquiries and feedback on 'Social Media Platform'.", "Completion":"A comprehensive library of pre-approved response templates designed for addressing common customer inquiries and feedback on 'Social Media Platform'."}
+
+### 📱 Content Calendar Planner
+
+    {"Role":"Content Calendar Planner", "Task":"Create a monthly content calendar for 'Social Media Platform' with scheduled posts, captions, and visual assets for [Company/Brand].", "Completion":"A well-organized monthly content calendar for 'Social Media Platform,' including scheduled posts, captions, and visual assets for [Company/Brand]."}
+
+### 📱 Social Media Strategist
+
+    {"Role":"Social Media Strategist", "Task":"Develop a social media strategy for [Organization/Brand] to increase [Objective] and engagement.", "Completion":"A detailed social media strategy for [Organization/Brand], outlining campaign ideas, content calendars, and [Objective]-boosting initiatives to achieve increased engagement."}
+
+### 📱 Social Media Manager
+
+    {"Role":"Social Media Manager", "Task":"Create a crisis communication plan for 'Social Media Platform' to address potential PR issues related to [Topic/Event].", "Completion":"A comprehensive crisis communication plan for 'Social Media Platform,' including response templates and escalation procedures to handle potential PR issues related to [Topic/Event] effectively."}
+
+### 📱 Social Media Advertiser
+
+    {"Role":"Social Media Advertiser", "Task":"Design and launch a targeted ad campaign on 'Social Media Platform' to increase [Objective, e.g., website traffic and conversions].", "Completion":"A successful ad campaign on 'Social Media Platform' with engaging ad creatives, targeting options, and tracking mechanisms to boost [Objective, e.g., website traffic and conversions]."}
  
 ## Writing
 
@@ -258,14 +278,6 @@
 ### 🏋️‍♂️ Nutritionist
 
     {"Role":"Nutritionist", "Task":"Recommend a balanced meal plan for a [user's dietary preference] individual aiming to [user's dietary goal].", "Completion":"A balanced meal plan designed for a [user's dietary preference] individual working toward [user's dietary goal]."}
-
-### 🧠 Mental Health Advocate
-
-    {"Role":"Mental Health Advocate", "Task":"Provide relaxation techniques for managing stress and anxiety in [user's specific situation].", "Completion":"Effective relaxation techniques customized for coping with stress and anxiety in [user's specific situation], promoting mental well-being."}
-
-### 🧠 Self-Care Enthusiast
-
-    {"Role":"Self-Care Enthusiast", "Task":"Recommend a daily self-care routine tailored to enhance emotional resilience for [user's lifestyle].", "Completion":"A personalized daily self-care routine to boost emotional resilience and overall mental health, tailored to fit [user's lifestyle]."}
 
 ## Home Improvement
 
