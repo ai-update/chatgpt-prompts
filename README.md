@@ -41,9 +41,9 @@
 ### 🛠️ [**1 Custom Prompt**](mailto:workcommunication@duck.com) 
 > 💲 **19.99**
 
-# Prompts:
+# Prompt Collection
     
-## Business
+## Business:
 
 #### 👔 Email Drafter
 
@@ -73,6 +73,8 @@
 
 > 🎯 [**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-nonprofit-fundraiser-1)
 
+    {"Role":"Nonprofit Fundraiser", "Task":"Develop a fundraising strategy for [nonprofit organization] for the next year.", "Completion":"A strategic fundraising plan for [nonprofit organization], including campaigns and donor engagement strategies for the next year."}
+
 #### 👔 Financial Advisor
 
     {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type'.", "Completion":"Informed investment advice for 'Investment Type', aligning with diverse financial goals and risk tolerance."}
@@ -85,8 +87,6 @@
 
     {"Role":"Sales Representative", "Task":"Create a sales pitch presentation for [product/service] to present to potential clients.", "Completion":"A persuasive sales pitch presentation for [product/service] with key selling points and visuals for potential client meetings."}
 
-    {"Role":"Nonprofit Fundraiser", "Task":"Develop a fundraising strategy for [nonprofit organization] for the next year.", "Completion":"A strategic fundraising plan for [nonprofit organization], including campaigns and donor engagement strategies for the next year."}
-
 #### 👔 Public Speaker
 
     {"Role":"Public Speaker", "Task":"Prepare a 15-minute speech on 'Topic' for an upcoming event.", "Completion":"A well-structured and engaging 15-minute speech on 'Topic' with key points and supporting anecdotes."}
@@ -95,7 +95,7 @@
 
     {"Role":"Diversity and Inclusion Manager", "Task":"Create a diversity and inclusion training program for employees.", "Completion":"A comprehensive diversity and inclusion training program for employees, including modules and resources."}
 
-### Marketing
+### Marketing:
 
 #### 🌐 **Marketing Plan Generator**
 
@@ -141,7 +141,7 @@
 
     {"Role":"Online Review Manager", "Task":"Recommend approaches for managing and responding to online reviews effectively.", "Completion":"Effective approaches for managing and responding to online reviews to maintain a positive online reputation."}
 
-### Career Development
+### Career Development:
 
 #### 💼 Job Seeker
 
@@ -171,7 +171,7 @@
 
     {"Role":"Career Coach", "Task":"Recommend resources for assessing and aligning career goals with personal strengths.", "Completion":"Valuable resources for assessing and aligning career goals with personal strengths, facilitating career coaching."
 
-## Education
+## Education:
 
 #### 🎓 Educator
 
@@ -213,7 +213,7 @@
 
     {"Role":"Art Teacher", "Task":"Conduct a creative arts and crafts workshop for [Grade Level] students, focusing on '[Theme]' art projects.", "Completion":"A hands-on arts and crafts workshop for [Grade Level] students, with '[Theme]' themed art projects, materials, and demonstrations to foster creativity."}
 
-## Food & Drinks
+## Food & Drinks:
 
 #### 🍽️ Recipe Generator
 
@@ -241,7 +241,7 @@
 
     {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
 
-## Social Media
+## Social Media:
 
 #### 📱 Social Media Ad Template Creator
 
@@ -283,19 +283,19 @@
 
     {"Role":"Social Media Advertiser", "Task":"Design and launch a targeted ad campaign on 'Social Media Platform' to increase [Objective, e.g., website traffic and conversions].", "Completion":"A successful ad campaign on 'Social Media Platform' with engaging ad creatives, targeting options, and tracking mechanisms to boost [Objective, e.g., website traffic and conversions]."}
  
-## Writing
+## Writing:
 
 #### ✒️ Poetry Writer
 
     {"Role":"Poetry Generator", "Task":"Compose 'Poetry Style' poetry.", "Completion":"Evocative poetry that beautifully captures various themes and emotions."0}
 
-## Fitness and Health
+## Fitness and Health:
 
 #### 🏋️‍♂️ Fitness Coach
 
     {"Role":"Fitness Coach", "Task":"Develop a personalized workout plan for achieving [user's fitness goal] based on your assessment of [user's fitness level].", "Completion":"A customized workout plan tailored to help you achieve your [user's fitness goal] and optimized for your current [user's fitness level]."}
 
-## Home Improvement
+## Home Improvement:
 
 #### 🏠 Home Organizer
 
@@ -339,7 +339,7 @@
 
 ## Examples
 
-### Business
+### Business:
 
 #### 👔 Email Drafter
 
@@ -383,7 +383,7 @@
 
 ![Screenshot 2023-10-10 at 20-43-17 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/642fc778-7096-4327-9846-008dbfcc5580)
 
-### Planning
+### Planning:
 
 #### 📅 Party Planner
 
@@ -391,7 +391,7 @@
 
 ![Screenshot 2023-10-10 at 18-41-00 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/d1ec6214-6cd0-4632-8e96-b1a408737dec)
 
-### Food & Drinks
+### Food & Drinks:
 
 #### 🍽️ Recipe Generator
 
