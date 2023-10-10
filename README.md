@@ -6,22 +6,22 @@
 
 ## Table of Contents
 
-- [ℹ️ Instructions](#instructions)
-- [🧑‍🔧 DIY Template](#diy-template)
-- [➕ More Prompts](#more-prompts)
+- [**ℹ️ Instructions**](#instructions)
+- [**🧑‍🔧 DIY Template**](#diy-template)
+- [**➕ More Prompts**](#more-prompts)
 - **Prompts:**
-- [📅 Planning](#planning)
-- [👔 Business](#business)
-> [🌐 Marketing](#marketing)
->> [💼 Career Development](#career-development)
-- [🔎 Research](#research)
-- [🎓 Education](#education)
-- [💬 Languages](#languages)
-- [📱 Social Media](#social-media)
-- [✍️ Writing](#writing)
-- [🏋️‍♂️ Fitness and Health](#fitness-health)
-- [🏠 Home Improvement](#home-improvement)
-- [🎯 Examples](#examples)
+- [**📅 Planning**](#planning)
+- [**👔 Business**](#business)
+> [**🌐 Marketing**](#marketing)
+>> [**💼 Career Development**](#career-development)
+- [**🔎 Research**](#research)
+- [**🎓 Education**](#education)
+- [**💬 Languages**](#languages)
+- [**📱 Social Media**](#social-media)
+- [**✍️ Writing**](#writing)
+- [**🏋️‍♂️ Fitness and Health**](#fitness-health)
+- [**🏠 Home Improvement**](#home-improvement)
+- [**🎯 Examples**](#examples)
 
 ## Instructions:
 
@@ -91,7 +91,31 @@
 
     {"Role":"Sales Representative", "Task":"Create a sales pitch presentation for [product/service] to present to potential clients.", "Completion":"A persuasive sales pitch presentation for [product/service] with key selling points and visuals for potential client meetings."}
 
+### 👔 Nonprofit Fundraiser
+
+    {"Role":"Nonprofit Fundraiser", "Task":"Develop a fundraising strategy for [nonprofit organization] for the next year.", "Completion":"A strategic fundraising plan for [nonprofit organization], including campaigns and donor engagement strategies for the next year."}
+
+### 👔 Public Speaker
+
+    {"Role":"Public Speaker", "Task":"Prepare a 15-minute speech on 'Topic' for an upcoming event.", "Completion":"A well-structured and engaging 15-minute speech on 'Topic' with key points and supporting anecdotes."}
+
+### 👔 Diversity and Inclusion Manager
+
+    {"Role":"Diversity and Inclusion Manager", "Task":"Create a diversity and inclusion training program for employees.", "Completion":"A comprehensive diversity and inclusion training program for employees, including modules and resources."}
+
+### 👔 Environmental Consultant
+
+    {"Role":"Environmental Consultant", "Task":"Assess the environmental impact of [project/activity] and propose mitigation measures.", "Completion":"An environmental impact assessment report for [project/activity] with proposed mitigation measures for environmental protection."}
+
 ### Marketing
+
+### 🌐 **Marketing Manager**
+
+    {"Role":"Marketing Manager", "Task":"Create a marketing plan for the launch of 'Product Name'.", "Completion":"A strategic marketing plan for the launch of 'Product Name,' including target audience, channels, and budget."}
+
+### 🌐 Digital Marketing Campaign
+
+{"Role":"Marketing Manager", "Task":"Design and execute a digital marketing campaign to promote 'Product/Service' to the target audience.", "Completion":"A successful digital marketing campaign for 'Product/Service' that includes a creative strategy, content plan, ad placements, and key performance metrics, resulting in increased brand visibility and conversions."}
 
 ### 🌐 **Online Marketeer**
 
@@ -315,6 +339,12 @@
 
 
 ## Examples
+
+### 👔 Nonprofit Fundraiser
+
+    {"Role":"Nonprofit Fundraiser", "Task":"Develop a fundraising strategy for [nonprofit organization] for the next year.", "Completion":"A strategic fundraising plan for [nonprofit organization], including campaigns and donor engagement strategies for the next year."}
+
+![Screenshot 2023-10-10 at 19-25-15 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/baf8416a-3153-4e79-a2b9-3854173cf9be)
 
 ### 🌐 Online Advertiser
 
