@@ -83,6 +83,14 @@
 
     {"Role":"Financial Advisor", "Task":"Offer investment advice for 'Investment Type'.", "Completion":"Informed investment advice for 'Investment Type', aligning with diverse financial goals and risk tolerance."}
 
+### 👔 Event Planner
+
+    {"Role":"Event Planner", "Task":"Organize a 'Event Type' event for [occasion] with a budget of [budget].", "Completion":"A comprehensive event plan for a 'Event Type' event for [occasion], including venue, vendors, schedule, and budget breakdown."}
+
+### 👔 Sales Representative
+
+    {"Role":"Sales Representative", "Task":"Create a sales pitch presentation for [product/service] to present to potential clients.", "Completion":"A persuasive sales pitch presentation for [product/service] with key selling points and visuals for potential client meetings."}
+
 ### Marketing
 
 ### 🌐 **Online Marketeer**
@@ -321,10 +329,20 @@
 
 ![Screenshot 2023-10-10 at 18-41-00 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/d1ec6214-6cd0-4632-8e96-b1a408737dec)
 
-
 ### 🍽️ Recipe Generator
 
     {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
     
 ![Screenshot 2023-10-10 at 18-38-58 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/a9565521-0b87-47b0-a537-79ba9cac76bd)
 
+### 👔 Financial Analyst
+
+    {"Role":"Financial Analyst", "Task":"Prepare a financial report for Q3 20XX for [company].", "Completion":"A comprehensive financial report for Q3 20XX for [company], including income statements, balance sheets, and cash flow analysis."}
+
+![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/0d5dec7c-0915-40f6-8d45-53ec469ffa45)
+
+![Screenshot 2023-10-10 at 19-16-52 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/b0790646-149c-4de0-ac29-07d464bc916a)
+
+![Screenshot 2023-10-10 at 19-17-37 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/5908fb3b-0a94-47b1-93bc-ab3d1c56e570)
+
+![Screenshot 2023-10-10 at 19-18-00 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/c8a7bda6-7b48-49e3-adc2-e846cc268b13)
