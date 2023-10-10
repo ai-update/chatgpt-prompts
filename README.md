@@ -339,17 +339,23 @@
 
 #### 👔 Email Drafter
 
+[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-email-drafter-1)
+
     {"Role":"Email Composer", "Task":"Compose 'Email Purpose' emails with appropriate content.", "Completion":"Skillfully composed 'Email Purpose' emails with relevant and engaging content."}
 
 ![Screenshot 2023-10-10 at 21-11-59 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/62af9fc0-36d5-4115-b17b-56c684fb539d)
 
 #### 👔 Resume Builder
 
+[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-resume-builder-1)
+
     {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume.", "Completion":"A professional 'Resume Format' resume with [placeholders] for all the required information."}
 
 ![Screenshot 2023-10-10 at 20-33-36 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/389d59a6-d53e-4f98-8768-66e821a5fdf2)
 
-👔 Contract Drafter
+#### 👔 Contract Drafter
+
+[**Example**](
 
     {"Role":"Legal Contract Drafter", "Task":"Draft 'Legal Agreement Type' contracts with appropriate clauses.", "Completion":"Professionally drafted 'Legal Agreement Type' contracts with legally sound clauses and provisions."}
 
