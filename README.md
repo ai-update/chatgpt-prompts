@@ -13,7 +13,7 @@
 - [**📅 Planning**](#planning)
 - [**👔 Business**](#business)
 > [**🌐 Marketing**](#marketing)
->> [**💼 Career Development**](#career-development)
+  [**💼 Career Development**](#career-development)
 - [**🎓 Education**](#education)
 - [**📱 Social Media**](#social-media)
 - [**✍️ Writing**](#writing)
@@ -81,9 +81,9 @@
 
     {"Role":"Diversity and Inclusion Manager", "Task":"Create a diversity and inclusion training program for employees.", "Completion":"A comprehensive diversity and inclusion training program for employees, including modules and resources."}
 
-### 👔 Environmental Consultant
+### 👔 Financial Analyst
 
-    {"Role":"Environmental Consultant", "Task":"Assess the environmental impact of [project/activity] and propose mitigation measures.", "Completion":"An environmental impact assessment report for [project/activity] with proposed mitigation measures for environmental protection."}
+[Example](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-party-planner-1)
 
 ### Marketing
 
