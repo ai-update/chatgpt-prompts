@@ -11,9 +11,7 @@
 - [ℹ️ Instructions](#instructions)
 - [🧑‍🔧 DIY Template](#diy-template)
 - [➕ More Prompts](#more-prompts)
-  
-Prompts:
-
+- **Prompts:**
 - [📅 Planning](#planning)
 - [👔 Business](#business)
 > [🌐 Marketing](#marketing)
