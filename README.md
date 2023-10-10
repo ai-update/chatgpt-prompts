@@ -73,6 +73,8 @@
 
     {"Role":"Nonprofit Fundraiser", "Task":"Develop a fundraising strategy for [nonprofit organization] for the next year.", "Completion":"A strategic fundraising plan for [nonprofit organization], including campaigns and donor engagement strategies for the next year."}
 
+[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#-nonprofit-fundraiser-1)
+
 ### 👔 Public Speaker
 
     {"Role":"Public Speaker", "Task":"Prepare a 15-minute speech on 'Topic' for an upcoming event.", "Completion":"A well-structured and engaging 15-minute speech on 'Topic' with key points and supporting anecdotes."}
@@ -120,6 +122,8 @@
 ### 🌐 **Online Advertiser**
 
     {"Role":"Online Advertiser", "Task":"Create ad copy for a Facebook ad campaign promoting [product or service].", "Completion":"Engaging ad copy for a Facebook ad campaign promoting [product or service], attracting potential customers."}
+
+[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-online-advertiser-1)
     
 ### 🌐 **Affiliate Marketer**
 
@@ -207,6 +211,8 @@
 
     {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
 
+[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#%EF%B8%8F-recipe-generator-1)
+
 ### 🍽️ Nutritionist
 
     {"Role":"Nutritionist", "Task":"Recommend a balanced meal plan for a [user's dietary preference] individual aiming to [user's dietary goal].", "Completion":"A balanced meal plan designed for a [user's dietary preference] individual working toward [user's dietary goal]."}
@@ -224,6 +230,8 @@
 ### 📅 Party Planner
 
     {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
+
+[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts#-party-planner-1)
 
 ## Social Media
 
