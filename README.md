@@ -266,6 +266,10 @@
 
 ## Examples
 
+### 🌐 Online Advertiser
+
+    {"Role":"Online Advertiser", "Task":"Create ad copy for a Facebook ad campaign promoting [product or service].", "Completion":"Engaging ad copy for a Facebook ad campaign promoting [product or service], attracting potential customers."}
+
 ![Screenshot 2023-10-10 at 06-18-47 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/e4b8560b-1770-4316-aa71-2c5e1f9b2b2a)
 
 ![Screenshot 2023-10-10 at 06-17-31 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/813595e8-46e3-4637-9307-1288c3cff3a1)
