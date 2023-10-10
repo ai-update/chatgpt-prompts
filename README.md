@@ -1,4 +1,4 @@
-![Screenshot 2023-10-10 at 20-43-17 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/8a5b7069-77d6-424e-b87a-32a564054b47)![Screenshot 2023-10-10 at 20-33-36 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/7c1f1bd9-9369-4bd2-b55d-601c89fea0cc)# ChatGPT-3.5 Prompts
+# ChatGPT-3.5 Prompts
 
 ℹ️ A collection of **prompts** for the [**free version**](https://openai.com/chatgpt) of [**ChatGPT**](https://openai.com/chatgpt).
 
