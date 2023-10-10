@@ -51,7 +51,7 @@
 
 ### 👔 Resume Builder
 
-[**Example**](
+[**Example**](https://github.com/cas-van-vliet/chatgpt-prompts/blob/main/README.md#resume-builder)
 
     {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume.", "Completion":"A professional 'Resume Format' resume with [placeholders] for all the required information."}
 
@@ -333,7 +333,9 @@
 
 ## Examples
 
-### Resume Builder
+### Business
+
+### 👔 Resume Builder
 
     {"Role":"Resume Builder", "Task":"Create a 'Resume Format' resume.", "Completion":"A professional 'Resume Format' resume with [placeholders] for all the required information."}
 
@@ -351,19 +353,6 @@
 
 ![Screenshot 2023-10-10 at 18-42-04 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/51d4e2b9-037d-4273-811d-e9a2c2371b43)
 
-
-### 📅 Party Planner
-
-     {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
-
-![Screenshot 2023-10-10 at 18-41-00 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/d1ec6214-6cd0-4632-8e96-b1a408737dec)
-
-### 🍽️ Recipe Generator
-
-    {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
-    
-![Screenshot 2023-10-10 at 18-38-58 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/a9565521-0b87-47b0-a537-79ba9cac76bd)
-
 ### 👔 Financial Analyst
 
     {"Role":"Financial Analyst", "Task":"Prepare a financial report for Q3 20XX for [company].", "Completion":"A comprehensive financial report for Q3 20XX for [company], including income statements, balance sheets, and cash flow analysis."}
@@ -375,3 +364,19 @@
 ![Screenshot 2023-10-10 at 19-17-37 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/5908fb3b-0a94-47b1-93bc-ab3d1c56e570)
 
 ![Screenshot 2023-10-10 at 19-18-00 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/c8a7bda6-7b48-49e3-adc2-e846cc268b13)
+
+### Planning
+
+### 📅 Party Planner
+
+     {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
+
+![Screenshot 2023-10-10 at 18-41-00 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/d1ec6214-6cd0-4632-8e96-b1a408737dec)
+
+### Food & Drinks
+
+### 🍽️ Recipe Generator
+
+    {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
+    
+![Screenshot 2023-10-10 at 18-38-58 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/a9565521-0b87-47b0-a537-79ba9cac76bd)
