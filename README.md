@@ -11,10 +11,10 @@
 - ➕ [**More Prompts**](#more-prompts)
 #### Prompts:
 - 👔 [**Business:**](#business)
-🌐  [** Marketing**](#marketing)
-💼 [**Career Development**](#career-development)
+- > 🌐 [**Marketing**](#marketing)
+- > 💼 [**Career Development**](#career-development)
 - 🎓 [**Education**](#education)
-- [**
+- 🍽️ [**Food and Drinks**](#food-drinks)
 - 📅 [**Planning**](#planning)
 - 📱 [**Social Media**](#social-media)
 - ✍️ [**Writing**](#writing)
