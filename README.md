@@ -258,3 +258,11 @@
 ![Screenshot 2023-10-10 at 06-18-47 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/e4b8560b-1770-4316-aa71-2c5e1f9b2b2a)
 
 ![Screenshot 2023-10-10 at 06-17-31 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/813595e8-46e3-4637-9307-1288c3cff3a1)
+
+### 📅 Party Planner
+
+    {"Role":"Party Planner", "Task":"Recommend unique and budget-friendly party themes for a [user's occasion or celebration].", "Completion":"Exciting and cost-effective party theme ideas to make your [user's occasion or celebration] unforgettable."}
+
+![Screenshot 2023-10-10 at 09-12-04 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/7a8435cc-afe8-422c-918c-35c38b3045a4)
+
+![Screenshot 2023-10-10 at 09-09-53 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/4c92badf-0a53-4960-b9c5-6f0bb6096202)
