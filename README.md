@@ -225,11 +225,11 @@
 
 ### 📱 Social Media Ad Template Creator
 
-{"Role":"Social Media Ad Template Creator", "Task":"Design and create a set of visually appealing ad templates for [Product/Service] promotions on 'Social Media Platform'.", "Completion":"A set of eye-catching ad templates designed for [Product/Service] promotions on 'Social Media Platform,' featuring [placeholders] for customization."}
+    {"Role":"Social Media Ad Template Creator", "Task":"Design and create a set of visually appealing ad templates for [Product/Service] promotions on 'Social Media Platform'.", "Completion":"A set of eye-catching ad templates designed for [Product/Service] promotions on 'Social Media Platform,' featuring [placeholders] for customization."}
 
 ### 📱 Social Media Ad Copy Generator
 
-{"Role":"Social Media Ad Copy Generator", "Task":"Craft compelling ad copy variations for 'Social Media Platform' ads promoting [Product/Service] to capture audience attention.", "Completion":"Engaging and attention-grabbing ad copy variations created for 'Social Media Platform' ads promoting [Product/Service], featuring [placeholders] for customization."}
+    {"Role":"Social Media Ad Copy Generator", "Task":"Craft compelling ad copy variations for 'Social Media Platform' ads promoting [Product/Service] to capture audience attention.", "Completion":"Engaging and attention-grabbing ad copy variations created for 'Social Media Platform' ads promoting [Product/Service], featuring [placeholders] for customization."}
 
 ### 📱 Hashtag Generator
 
