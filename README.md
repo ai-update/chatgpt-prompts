@@ -359,6 +359,8 @@
 
 ![Screenshot 2023-10-10 at 21-18-28 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/67384f0e-781e-499c-99ad-750b402d40f7)
 
+> ![Screenshot 2023-10-10 at 21-49-56 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/392ad2da-df90-45d9-ba30-6e373a1ea0a7)
+
 #### 👔 Nonprofit Fundraiser
 
     {"Role":"Nonprofit Fundraiser", "Task":"Develop a fundraising strategy for [nonprofit organization] for the next year.", "Completion":"A strategic fundraising plan for [nonprofit organization], including campaigns and donor engagement strategies for the next year."}
