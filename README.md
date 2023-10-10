@@ -12,8 +12,8 @@
 #### Prompts:
 - [**📅 Planning**](#planning)
 - [**👔 Business**](#business)
-> [**🌐 Marketing**](#marketing)
->> [**💼 Career Development**](#career-development)
+  [**🌐 Marketing**](#marketing)
+  [**💼 Career Development**](#career-development)
 - [**🎓 Education**](#education)
 - [**📱 Social Media**](#social-media)
 - [**✍️ Writing**](#writing)
