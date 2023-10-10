@@ -6,8 +6,6 @@
 
 ## Table of Contents
 
-## Table of Contents
-
 - [ℹ️ Instructions](#instructions)
 - [🧑‍🔧 DIY Template](#diy-template)
 - [➕ More Prompts](#more-prompts)
