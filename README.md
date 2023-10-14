@@ -2,7 +2,7 @@
 
 ![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/4276fe3e-f3d4-428a-a26b-6ea834eabfea)
 
-## ℹ️ Prompts for the [**free version**](https://openai.com/chatgpt) of [**ChatGPT**](https://openai.com/chatgpt)
+## Prompts for the [**free version**](https://openai.com/chatgpt) of [**ChatGPT**](https://openai.com/chatgpt)
 
 ### ™️ Made by [**Cas van Vliet**](https://casvanvliet.substack.com).
 
