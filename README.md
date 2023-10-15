@@ -1,10 +1,6 @@
 # ChatGPT-3.5 Prompts
 
-![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/4276fe3e-f3d4-428a-a26b-6ea834eabfea)
-
-## Prompts for the [**free version**](https://openai.com/chatgpt) of [**ChatGPT**](https://openai.com/chatgpt)
-
-### ™️ Made by [**Cas van Vliet**](https://casvanvliet.substack.com).
+![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/4b2752c5-270d-45f3-bbcd-003c2eff81a0)
 
 ## Table of Contents
 
