@@ -1,6 +1,6 @@
 # ChatGPT-3.5 Prompts
 
-![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/4b2752c5-270d-45f3-bbcd-003c2eff81a0)
+![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/d6996b30-c8ac-4ae9-af42-329430dd8000)
 
 ## Table of Contents
 
