@@ -43,7 +43,7 @@
 ### 🛠️ [**1 Custom Prompt**](mailto:workcommunication@duck.com) 
 > 💲 **9.99+**
 
-### 📑 1 Advanced Prompt
+### 📑 [1 Advanced Prompt](mailto:workcommunication@duck.com) 
 > 💲 **0.99**
 
 ### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
