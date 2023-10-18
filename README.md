@@ -40,6 +40,9 @@
 
 ## More Prompts
 
+### 📑 1 Advanced Prompt
+> 💲 **0.99**
+
 ### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
 > 💲 **9.99**
 
