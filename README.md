@@ -40,17 +40,23 @@
 
 ## More Prompts
 
-### 🛠️ [**1 Custom Prompt**](mailto:workcommunication@duck.com) 
-> 💲 **9.99+**
+Buy more (custom & advanced) prompts in my webshop:
 
-### 📑 [1 Advanced Prompt](mailto:workcommunication@duck.com) 
-> 💲 **0.99**
+### 📸 [Instagram Ad Generator](https://promptfast.gumroad.com/l/instagram-advertisement-generator)
 
-### 📄 [**1000 Basic Prompts**](mailto:workcommunication@duck.com) 
-> 💲 **9.99**
+Generate Advertisements for Instagram:
 
-### 📝 [**100 Tailored Prompts**](mailto:workcommunication@duck.com) 
-> 💲 **$9.99**
+**$0.99**
+
+> _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-advertisement-generator)_
+
+### 📸 [Instagram Post Planner](https://promptfast.gumroad.com/l/instagram-post-planner)
+
+Generate Post Schedules for Instagram:
+
+**$0.99**
+
+> _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-post-planner)_
 
 ## Prompt Collection
     
