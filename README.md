@@ -40,23 +40,11 @@
 
 ## More Prompts
 
-Buy more (custom & advanced) prompts in my webshop:
+Buy more (custom) prompts in one of my webshops:
 
-### 📸 [Instagram Ad Generator](https://promptfast.gumroad.com/l/instagram-advertisement-generator)
+### 🏪 [GumRoad](https://promptfast.gumroad.com)
 
-Generate Advertisements for Instagram:
-
-**$0.99**
-
-> _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-advertisement-generator)_
-
-### 📸 [Instagram Post Planner](https://promptfast.gumroad.com/l/instagram-post-planner)
-
-Generate Post Schedules for Instagram:
-
-**$0.99**
-
-> _Also available on [PromptsIdeas](https://promptsideas.com/prompt/instagram-post-planner)_
+### 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast)
 
 ## Prompt Collection
     
