@@ -44,6 +44,8 @@ Buy more (custom) prompts in one of my webshops:
 
 ### 🏪 [GumRoad](https://promptfast.gumroad.com)
 
+> 💵 [Become an Affiliate Partner](https://promptfast.gumroad.com/affiliates)
+
 ### 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast)
 
 ## Prompt Collection
