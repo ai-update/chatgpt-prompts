@@ -407,3 +407,5 @@ Buy more (custom) prompts in one of my webshops:
     {"Role":"Recipe Generator", "Task":"Generate 'Cuisine Type' recipes.", "Completion":"'Cuisine Type' recipes."}
     
 ![Screenshot 2023-10-10 at 18-38-58 ChatGPT](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/a9565521-0b87-47b0-a537-79ba9cac76bd)
+
+![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/19f7dc8e-23c1-4160-b6d8-304ab0aaaa5f)
